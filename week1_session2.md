@@ -11,10 +11,22 @@ We will update them before and after the session, to please keep checking back f
 
 ## Recording
 
-We will link to the recording here, after the Friday session.
+[Recording for the Thursday session](https://bham-ac-uk.zoom.us/rec/share/oSWxY8K4CoJ25tjcT0YlvKtL3z4eT2iqiL8ixRjrh4f90J_f2j7rl8oo_ZyMIMWu.BBy4K_fGItIWar2I)
 
 ## Schedule and plan
 
+### Basic Python
+
+Here we continue from session 1.
+
+- [Very fast introduction to Python](https://textbook.nipraxis.org/introducing_python.html)
+- [First analysis
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_analysis&subPath=first_analysis.ipynb)
+
+If you have already done this, please see the homework below.
+
+[What is a (neuro)
+image?](https://textbook.nipraxis.org/what_is_an_image.html).
 
 ## For homework
 
@@ -39,4 +51,4 @@ Consider doing:
 - [list2 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list2&subPath=list2.ipynb)
 
 
-That's it for the first session.
+That's it for this session.
