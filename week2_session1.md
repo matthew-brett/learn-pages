@@ -26,14 +26,14 @@ We will link to the recording here, after the Tuesday session.
 ### Arrays, images and plotting
 
 * [Introduction to Numpy](https://textbook.nipraxis.org/numpy_intro.html)
-* [Arrays and images](https://textbook.nipraxis.org/arrays_and_images)
-* [Camera
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
+* [Arrays
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
+
+For those of you who have not used Numpy before, we recommend you read this page, and do this exercise:
+
 * [Boolean indexing](https://textbook.nipraxis.org/boolean_indexing.html)
 * [Boolean
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)
-* [Numpy
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb).
 
 Please see also the background from the tutorial pages from the [scipy lecture
 notes]():
@@ -48,6 +48,11 @@ users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 ## For homework
 
 **The homework listed at the end of the session notes is the homework for the whole week**.  You should do the homework **before the first session of week 3**.
+
+When we list the homework in the notes for the first session, this is so you
+can get started early.  But, even if we list the homework in the first
+session, you only need to get the homework done for the beginning of the
+following week.
 
 ## That's it.
 
