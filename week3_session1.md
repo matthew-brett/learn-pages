@@ -1,27 +1,11 @@
-The first session is the Monday or Tuesday session — whichever you have chosen
-to join.
-
-The second session is the Thursday or Friday session.
-
-These are the notes for the session.
-
-We will update them before and after the session, to please keep checking back for updates.  Just refresh the page in your browser to get updates.
-
-The Zoom link for the Monday session is <https://bham-ac-uk.zoom.us/j/87903087978?pwd=OEtJbXBCekRiRjV2UkJnRmtxbUxXUT09>.
-
-The Tuesday Zoom link is <https://bham-ac-uk.zoom.us/j/86508385148?pwd=WjNSdTdQUWkyWjRwVjBTeTVjSGczQT09>.
-
-The *second session* is the Thursday or Friday session — whichever you have
-chosen to join.
+* [Monday session Zoom link](https://bham-ac-uk.zoom.us/j/87903087978?pwd=OEtJbXBCekRiRjV2UkJnRmtxbUxXUT09)
+* [Tuesday session Zoom link](https://bham-ac-uk.zoom.us/j/86508385148?pwd=WjNSdTdQUWkyWjRwVjBTeTVjSGczQT09)
 
 ## Recording
 
 We will link to the recording here, after the Tuesday session.
 
 ## Schedule and plan
-
-* About different levels of background Python and Numpy.
-* About homework.
 
 ### 4D arrays and time series
 
@@ -30,6 +14,7 @@ We will link to the recording here, after the Tuesday session.
 - getting volumes from 4D images;
 - getting time-series from 4D images by slicing;
 - intro page: {doc}`intro_to_4d`;
+- [reading text files](https://textbook.nipraxis.org/reading_text)
 - exercise: {doc}`four_dimensions_exercise`.
 
 ## For homework

@@ -13,7 +13,28 @@ We will update them before and after the session, to please keep checking back f
 
 We will link to the recording here, after the Friday session.
 
+## New!  Discussion Forum
+We have created a [Nipraxis space](https://matrix.to/#/#nipraxis:matrix.org) on Element/matrix.org.
+
+The purpose of this forum is to allow students to interact with instructors
+and each other, semi-synchronously, outside of email. If you are familiar with Slack, it is intended to be similar to that.
+
+If you already have a Matrix account, the above link will allow you to join.
+If you do not, the easiest way to get started is to use the Element web app:
+<https://app.element.io/#/room/#nipraxis:matrix.org>
+
+From here, if you click "Join", you will be given the opportunity to sign in or create an account.
+
+Once you have joined, please also join the "Spring 2022" room, which will be used exclusively for this session of the course.
+After an open period, we will be making this room private so that discussions are not broadly viewable.
+
+Don't worry. If you join after this period, we can still invite you into the room.
+
 ## Schedule and plan
+
+* Discussion forum
+* If you already know Numpy
+* Plan for next week
 
 ### Arrays and images
 
