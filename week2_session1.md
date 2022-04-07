@@ -16,7 +16,7 @@ chosen to join.
 
 ## Recording
 
-We will link to the recording here, after the Tuesday session.
+See the [recording for the Tuesday session](https://bham-ac-uk.zoom.us/rec/share/T3GbPbDyDKEfboFzXV78eqr69OJopdukQofVOJ4BQb13lnlgfCQlU4b9mld34MyH.q-cnaegMY0F1_fTB)
 
 ## Schedule and plan
 
@@ -28,22 +28,6 @@ We will link to the recording here, after the Tuesday session.
 * [Introduction to Numpy](https://textbook.nipraxis.org/numpy_intro.html)
 * [Arrays
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
-
-For those of you who have not used Numpy before, we recommend you read this page, and do this exercise:
-
-* [Boolean indexing](https://textbook.nipraxis.org/boolean_indexing.html)
-* [Boolean
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)
-
-Please see also the background from the tutorial pages from the [scipy lecture
-notes]():
-
--   The [numpy array
-    object](https://scipy-lectures.org/intro/numpy/array_object.html);
--   [Array operations](https://scipy-lectures.org/intro/numpy/operations.html).
-
-If you know Matlab, you might want to look over this page on [Numpy for Matlab
-users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
 ## For homework
 

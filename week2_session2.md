@@ -36,14 +36,11 @@ can get started early.  But, even if we list the homework in the first
 session, you only need to get the homework done for the beginning of the
 following week.
 
-The homework for this week has two parts:
+The homework for this week has three parts:
 
 ### Read the scipy-lecture pages on Numpy
 
 Here are the links again:
-
-Please see also the background from the tutorial pages from the [scipy lecture
-notes]():
 
 -   The [numpy array
     object](https://scipy-lectures.org/intro/numpy/array_object.html);
@@ -52,9 +49,22 @@ notes]():
 If you know Matlab, you might want to look over this page on [Numpy for Matlab
 users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
+We think this will take you about 40 minutes, reading carefully.
+
+### Numpy exercise
+
+This exercise will stretch your Numpy knowledge from the pages above:
+
+[Numpy
+practice](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
+
+We think this will take about 45 minutes.
+
 ### Install Python and other libraries on your computer
 
 See [installation](https://textbook.nipraxis.org/installation)
+
+We think this will take you about 20 minutes.  If you have any problems, please contact us, we'll help.
 
 ## That's it.
 
