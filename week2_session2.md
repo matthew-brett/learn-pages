@@ -14,19 +14,30 @@ We will update them before and after the session, to please keep checking back f
 We will link to the recording here, after the Friday session.
 
 ## New!  Discussion Forum
-We have created a [Nipraxis space](https://matrix.to/#/#nipraxis:matrix.org) on Element/matrix.org.
 
-The purpose of this forum is to allow students to interact with instructors
-and each other, semi-synchronously, outside of email. If you are familiar with Slack, it is intended to be similar to that.
+We have created a Nipraxis space over at Element/matrix.org
 
-If you already have a Matrix account, the above link will allow you to join.
-If you do not, the easiest way to get started is to use the Element web app:
-<https://app.element.io/#/room/#nipraxis:matrix.org>
+The purpose of this forum is to allow you to interact with us, your
+instructors, and each other, semi-synchronously, outside of email. If you are
+familiar with Slack, we intend it to be similar to that.
 
-From here, if you click "Join", you will be given the opportunity to sign in or create an account.
+We suggest you join the room using your Github account, as follows.
 
-Once you have joined, please also join the "Spring 2022" room, which will be used exclusively for this session of the course.
-After an open period, we will be making this room private so that discussions are not broadly viewable.
+To join, click on [the Nipraxis space
+link](https://app.element.io/#/room/#nipraxis:matrix.org).
+
+Click "Join" to join the Nipraxis space.
+
+Choose "Sign in" from the next page (do *not* choose "Create Account", because you will be using your Github account).
+
+Assuming you do not already have a Matrix.org account, we suggest you then
+click on the Github icon at the bottom left of the pop-up window (hover
+message "Continue with Github").  Follow the instructions.  *Make sure you
+copy and store your backup key as instructed*.
+
+Once you have joined, please also join the "Spring 2022" room, which will be
+used exclusively for this session of the course. After an open period, we will
+be making this room private so that discussions are not broadly viewable.
 
 Don't worry. If you join after this period, we can still invite you into the room.
 
