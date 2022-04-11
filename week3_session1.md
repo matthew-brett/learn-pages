@@ -27,7 +27,7 @@ Pages and exercises:
 * [Indexing with
   Booleans](https://textbook.nipraxis.org/boolean_indexing.html)
 * [Boolean indexing
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_indexing&subPath=boolean_indexing.ipynb)
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)
 
 ## For homework
 
@@ -38,7 +38,7 @@ can get started early.  But, even if we list the homework in the first
 session, you only need to get the homework done for the beginning of the
 following week.
 
-- Read, learn, inwardly digest the [curious
+- Read, mark, learn and inwardly digest the [curious
   git](https://matthew-brett.github.io/curious-git/) tutorial;
 
 More will follow.
