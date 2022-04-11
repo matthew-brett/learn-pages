@@ -27,12 +27,9 @@ Pages and exercises:
 
 ## For homework
 
-**The homework listed at the end of the session notes is the homework for the whole week**.  You should do the homework **before the first session of week 3**.
+This is the homework for Thursday 21st / Friday 22nd.
 
-When we list the homework in the notes for the first session, this is so you
-can get started early.  But, even if we list the homework in the first
-session, you only need to get the homework done for the beginning of the
-following week.
+We will update it on Wednesday 12 April.
 
 - Read, mark, learn and inwardly digest the [curious
   git](https://matthew-brett.github.io/curious-git/) tutorial;
