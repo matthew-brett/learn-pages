@@ -54,10 +54,6 @@ Don't worry. If you join after this period, we can still invite you into the roo
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
 * [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
 * [Images in 3D](https://textbook.nipraxis.org/images_3d)
-* [Reshaping and three dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
-* [Anatomical
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
-* [Arteries exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
 ## For homework
 

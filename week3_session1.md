@@ -7,15 +7,19 @@ We will link to the recording here, after the Tuesday session.
 
 ## Schedule and plan
 
-### 4D arrays and time series
+### Images, arrays and time series
 
-- Loading images with [nibabel];
-- 4D images as collections of 3D images;
-- getting volumes from 4D images;
-- getting time-series from 4D images by slicing;
-- intro page: {doc}`intro_to_4d`;
-- [reading text files](https://textbook.nipraxis.org/reading_text)
-- exercise: {doc}`four_dimensions_exercise`.
+* [Reshaping and three dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
+* [Anatomical
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+* [Arteries exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
+* Loading images with Nibabel.
+* 4D images as collections of 3D images;
+* getting volumes from 4D images;
+* getting time-series from 4D images by slicing;
+* [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
+* [reading text files](https://textbook.nipraxis.org/reading_text)
+* exercise: {doc}`four_dimensions_exercise`.
 
 ## For homework
 
@@ -26,7 +30,8 @@ can get started early.  But, even if we list the homework in the first
 session, you only need to get the homework done for the beginning of the
 following week.
 
-- Read, learn, inwardly digest the [curious git] tutorial;
+- Read, learn, inwardly digest the [curious
+  git](https://matthew-brett.github.io/curious-git/) tutorial;
 - Watch the videos at {doc}`git_videos`.
 
 ## That's it.
