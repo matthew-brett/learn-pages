@@ -15,6 +15,10 @@ We will link to the recording here, after the Friday session.
 
 ## Schedule and plan
 
+* [Indexing with
+  Booleans](https://textbook.nipraxis.org/boolean_indexing.html)
+* [Boolean indexing
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)
 * [Boolean indexing in more
   dimensions](https://textbook.nipraxis.org/boolean_indexing_nd.html)
 * [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)

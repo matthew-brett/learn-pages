@@ -24,10 +24,6 @@ Pages and exercises:
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
 * [Arteries
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
-* [Indexing with
-  Booleans](https://textbook.nipraxis.org/boolean_indexing.html)
-* [Boolean indexing
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)
 
 ## For homework
 
