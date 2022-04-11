@@ -7,19 +7,27 @@ We will link to the recording here, after the Tuesday session.
 
 ## Schedule and plan
 
+We will have an Easter break.
+
+No class this week on Thursday or Friday.
+
+No class next week on Monday or Tuesday.
+
 ### Images, arrays and time series
 
-* [Reshaping and three dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
+Pages and exercises:
+
+* [Images in 3D](https://textbook.nipraxis.org/images_3d)
+* [Reshaping and three
+  dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
 * [Anatomical
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
-* [Arteries exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
-* Loading images with Nibabel.
-* 4D images as collections of 3D images;
-* getting volumes from 4D images;
-* getting time-series from 4D images by slicing;
-* [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
-* [reading text files](https://textbook.nipraxis.org/reading_text)
-* exercise: {doc}`four_dimensions_exercise`.
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+* [Arteries
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
+* [Indexing with
+  Booleans](https://textbook.nipraxis.org/boolean_indexing.html)
+* [Boolean indexing
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_indexing&subPath=boolean_indexing.ipynb)
 
 ## For homework
 
@@ -32,7 +40,8 @@ following week.
 
 - Read, learn, inwardly digest the [curious
   git](https://matthew-brett.github.io/curious-git/) tutorial;
-- Watch the videos at {doc}`git_videos`.
+
+More will follow.
 
 ## That's it.
 

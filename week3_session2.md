@@ -15,6 +15,12 @@ We will link to the recording here, after the Friday session.
 
 ## Schedule and plan
 
+* [Boolean indexing in more
+  dimensions](https://textbook.nipraxis.org/boolean_indexing_nd.html)
+* [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
+* [reading text files](https://textbook.nipraxis.org/reading_text)
+* [Four dimensions
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
 
 ## That's it.
 

@@ -11,7 +11,7 @@ We will update them before and after the session, to please keep checking back f
 
 ## Recording
 
-We will link to the recording here, after the Friday session.
+[Thursday Week 2 session 2 recording](https://bham-ac-uk.zoom.us/rec/share/XDcugNcNDMPXwIkH4u7Nrwjs11ScP-lZBIkUjLmNI0Rho2mQPNyqSemGo_7hIoaa.PfYSEc7wt1HgItWJ)
 
 ## New!  Discussion Forum
 
@@ -53,7 +53,6 @@ Don't worry. If you join after this period, we can still invite you into the roo
 * [Camera
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
 * [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
-* [Images in 3D](https://textbook.nipraxis.org/images_3d)
 
 ## For homework
 
