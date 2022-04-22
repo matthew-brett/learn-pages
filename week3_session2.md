@@ -26,6 +26,25 @@ We will link to the recording here, after the Friday session.
 * [Four dimensions
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
 
+## For homework
+
+This is the homework for Monday 25th / Tuesday 26th.
+
+For this coming week, we will start switching to use your own computers.
+
+Make sure you have followed the instructions for
+[installation](https://textbook.nipraxis.org/installation).
+
+Your next job is to [choose a text
+editor](https://textbook.nipraxis.org/choosing_editor.html).
+
+Here we will have an expanding list of videos on choosing text editors:
+
+* [Pamphile Roy on PyCharm](https://vimeo.com/702001724)
+
+Please take time for this task, and investigate your options.  We will post
+new videos on the different editors over the next few days.
+
 ## That's it.
 
 That's it for this session.
