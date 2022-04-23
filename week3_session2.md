@@ -23,14 +23,17 @@ We will link to the recording here, after the Friday session.
   dimensions](https://textbook.nipraxis.org/boolean_indexing_nd.html)
 * [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
 * [reading text files](https://textbook.nipraxis.org/reading_text)
-* [Four dimensions
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
 
 ## For homework
 
 This is the homework for Monday 25th / Tuesday 26th.
 
-For this coming week, we will start switching to use your own computers.
+First, finish:
+
+* [Four dimensions
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
+
+Next, for this coming week, we will start switching to use your own computers.
 
 Make sure you have followed the instructions for
 [installation](https://textbook.nipraxis.org/installation).
@@ -41,6 +44,9 @@ editor](https://textbook.nipraxis.org/choosing_editor.html).
 Here we will have an expanding list of videos on choosing text editors:
 
 * [Pamphile Roy on PyCharm](https://vimeo.com/702001724)
+* [Ilhan Polat on Spyder](https://vimeo.com/702215618)
+* [Stéfan van der Walt on Emacs]
+* [Bhuvak Kalra on VSCode](https://vimeo.com/702402879)
 
 Please take time for this task, and investigate your options.  We will post
 new videos on the different editors over the next few days.
