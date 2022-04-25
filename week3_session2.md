@@ -1,6 +1,5 @@
 The *second session* is the Thursday or Friday session — whichever you have
 chosen to join.
-
 These are the notes for the second session, for week 2.
 
 We will update them before and after the session, to please keep checking back for updates.  Just refresh the page in your browser to get updates.
@@ -43,9 +42,9 @@ editor](https://textbook.nipraxis.org/choosing_editor.html).
 
 Here we will have an expanding list of videos on choosing text editors:
 
+* [Stéfan van der Walt on Emacs](https://vimeo.com/702404210)
 * [Pamphile Roy on PyCharm](https://vimeo.com/702001724)
 * [Ilhan Polat on Spyder](https://vimeo.com/702215618)
-* [Stéfan van der Walt on Emacs]
 * [Bhuvak Kalra on VSCode](https://vimeo.com/702402879)
 
 Please take time for this task, and investigate your options.  We will post
