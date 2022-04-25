@@ -3,7 +3,7 @@
 
 ## Recording
 
-We will link to the recording here, after the Tuesday session.
+Recording of the [Monday session](https://bham-ac-uk.zoom.us/rec/share/mcSuCJTmvxq_qAXvuE1rPOlhgu27kjqtVL0EQVeVSwbEG4R4byFbMhi80WbLptov.4eKDmS9E3Or7eCXj)
 
 ## Schedule and plan
 

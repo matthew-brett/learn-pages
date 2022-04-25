@@ -10,7 +10,7 @@ We will update them before and after the session, to please keep checking back f
 
 ## Recording
 
-We will link to the recording here, after the Friday session.
+Here is the recording for the [Friday session](https://bham-ac-uk.zoom.us/rec/share/4LKQTdYadCGgvbN8fhlifNFXoGNvqN7ab4aGn-PWL_kbQgb6-wMMJDfggfWOppx4.bLGpzG-FIFafYZVC)
 
 ## Schedule and plan
 
