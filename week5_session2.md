@@ -78,7 +78,13 @@ Everyone (including the team leader):
 20. Go to your fork URL (of form
     `https://github.com/<your-gh-user>/diagnostics-<teamname>`)
 21. You should see a new green "Compare and pull request" button for your
-    `editing-readme` branch. Click on that, fill in the details and submit the pull request.
+    `editing-readme` branch. Click on that, fill in the description and submit the pull request.
+
+The team leader should:
+
+1. Go to the main repository page — of form
+   `https://github.com/nipraxis-spring-2022/diagnostics-<teamname>`.
+2. Select one or more of the Pull requests to merge, and merge it / them.
 
 ## Modules and testing
 
