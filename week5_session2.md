@@ -47,13 +47,16 @@ Everyone (including the team leader):
    `https://github.com/<your-gh-user>/diagnostics-<teamname>` where `<your-gh-user>` is your Github username.
 6. Click on the green "Code" button, select the "SSH" tab.  Copy the link
    there, which will be of form:
-   `git@github.com:<your-gh-user>/diagnostics-<teamname>`
+   `git@github.com:<your-gh-user>/diagnostics-<teamname>`.  If you haven't got
+   SSH keys set up yet have a look at [setting up SSH keys on
+   Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).  If you really get stuck use the "HTTPS" tab and link instead of the "SSH" tab.
 7. Open a terminal on your computer.  Change to a suitable directory to store
    your code.  Consider `cd $HOME/nipraxis` if you don't have a strong
    alternative preference.
 8. Type a suitably modified version of this command: `git clone
    git@github.com:<your-gh-user>/diagnostics-<teamname>`, replacing the
-   relevant parts with your username and your team name.
+   relevant parts with your username and your team name.  (If you had to use
+   HTTPS above, modify the clone command here accordingly).
 9. You should now have a local *clone* of your *fork*.
 10. Change directory to the new cloned repository, with command of form `cd
     diagnostics-<teamname>`.
