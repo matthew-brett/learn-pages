@@ -41,7 +41,7 @@ Everyone (including the team leader):
 1. You should get an invitation to your team repository.
 2. Click on the link, that should be of form
    `https://github.com/nipraxis-spring-2022/diagnostics-<teamname>`, where `<teamname>` is your agreed team name.
-3. Click on the "Fork" button near the top left of the screen.
+3. Click on the "Fork" button near the top right of the screen.
 4. Accept the defaults, click "Create Fork".
 5. Now you should be at a new page, with URL of form:
    `https://github.com/<your-gh-user>/diagnostics-<teamname>` where `<your-gh-user>` is your Github username.

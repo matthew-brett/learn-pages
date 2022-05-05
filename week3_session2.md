@@ -44,7 +44,9 @@ Here we will have an expanding list of videos on choosing text editors:
 
 * [Stéfan van der Walt on Emacs](https://vimeo.com/702404210)
 * [Pamphile Roy on PyCharm](https://vimeo.com/702001724)
-* [Ilhan Polat on Spyder](https://vimeo.com/702215618)
+* Short version of [Ilhan Polat on Spyder](https://vimeo.com/702215618).  You
+  can also watch the [54 minute full conversation with
+  Ilhan](https://vimeo.com/706101324).
 * [Bhuvak Kalra on VSCode](https://vimeo.com/702402879)
 * [Paul Ivanov on Vim](https://vimeo.com/704733982).  This video is about 43
   minutes, and longer than the others, I will edit it down to 10 minutes in
