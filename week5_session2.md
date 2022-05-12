@@ -4,13 +4,18 @@
 
 ## Recording
 
-We will add a link here after the Friday session.
+[Friday session](https://bham-ac-uk.zoom.us/rec/share/Ui0ZvX3ECuNHdo9lEsB46OCseXlooVVTNUo26icFeHy-E7mjraLvFvo0HnbGa_XW.53OZKYPJPpnr8-1H?startTime=1651860322000)
 
 ## Schedule and plan
 
 * Github workflow and the final project.
 
 ### Working with the template repo
+
+Diagram of the workflow:
+
+![](https://learn.nipraxis.org/asset-v1:nipraxis+Pilot+Spring_2022+type@asset+block@github_workflow.png)
+
 
 Team leader:
 
@@ -93,11 +98,32 @@ The team leader should:
 * [path manipulation](https://textbook.nipraxis.org/path_manipulation)
 * [docstrings](https://textbook.nipraxis.org/docstrings)
 
-Now: <https://github.com/nipraxis/outlier-utils>
-
 ### Reading and homework for next week
 
-TBA
+You should have received a pull request into your upstream repository.  Please check there for the homework.
+
+If you do not see a pull request, please email
+<mailto:matthew.brett@gmail.com>.
+
+The pull request has instructions, and some more pages to read.
+
+Your task:
+
+* Merge the pull request.
+* Go to your local clone of your fork.
+* `git fetch upstream`
+* `git branch fix-detectors upstream/main`
+* `git checkout fix-detectors`
+
+For instructions, look in the files:
+
+* `findoutlie/spm_funcs.py`
+* `findoutlie/detectors.py`
+
+And then work on the code to run the given commands and fix the errors, until
+you get `Tests passed` from both given commands (see instructions in the PR).
+
+Now push, and make a pull request.   Work together to find the best solution, review the pull request, and merge it.
 
 ## That's it.
 
