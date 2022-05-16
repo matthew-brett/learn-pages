@@ -7,7 +7,7 @@
 
 ## Schedule and plan
 
-* [Validating data](https://textbook.nipraxis.org/validate_data) and
+* [Validating data](https://textbook.nipraxis.org/validating_data) and
   exercise therein.
 
 ## That's it.
