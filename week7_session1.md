@@ -84,6 +84,7 @@ URL `https://github.com/matthew-brett/diagnostics-example`.
 ### Voxel statistics
 
 * [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses).
+* [On correlation](https://textbook.nipraxis.org/on_correlation).
 * Git / testing exercise at <https://github.com/nipraxis/pearson>.
 * [Voxel correlation
 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
