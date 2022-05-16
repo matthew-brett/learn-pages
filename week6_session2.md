@@ -4,7 +4,8 @@
 
 ## Recording
 
-We will post this after the Friday session.
+[Friday
+session](https://bham-ac-uk.zoom.us/rec/share/G7ACFdB7_EL33ldpwifTCQ4ClTKN4bXrYIBI9nprJVUFSLu8Yv1gFYkYw9EaZjuX.QUNmcw4Z6BbwanCO)
 
 ## Schedule and plan
 
