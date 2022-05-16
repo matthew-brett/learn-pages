@@ -49,6 +49,14 @@ URL `https://github.com/matthew-brett/diagnostics-example`.
     python3 -m pytest findoutlie/tests/test_dvars.py
     ```
 
+    If you get an error `No module named pytest`, then run:
+
+    ```
+    python3 -m pip install pytest
+    ```
+
+    and try again.
+
   * You might consider also *installing* your new directory module `findoutlie`.  To do this:
 
     ```
@@ -72,6 +80,13 @@ URL `https://github.com/matthew-brett/diagnostics-example`.
 
   * When you have solved this, make a pull request to the upstream repository,
   and @ mention one of the instructors for a review.
+
+### Voxel statistics
+
+* [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses).
+* Git / testing exercise at <https://github.com/nipraxis/pearson>.
+* [Voxel correlation
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
 
 ## That's it.
 
