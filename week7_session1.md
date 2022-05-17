@@ -75,8 +75,10 @@ URL `https://github.com/matthew-brett/diagnostics-example`.
 
     and complete these to make the tests pass.
 
-  * Hint — for full efficiency, you might consider revisiting the [4D to 2D
-  reshaping page](https://textbook.nipraxis.org/reshape_and_4d.html)
+  * **Hint 1** — one of the ways to write the `dvars` function in the most
+  efficient way, would use ideas from [4D to 2D reshaping
+  page](https://textbook.nipraxis.org/reshape_and_4d.html). You might also
+  benefit from the `np.diff` function.
 
   * When you have solved this, make a pull request to the upstream repository,
   and @ mention one of the instructors for a review.
@@ -84,7 +86,6 @@ URL `https://github.com/matthew-brett/diagnostics-example`.
 ### Voxel statistics
 
 * [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses).
-* [On correlation](https://textbook.nipraxis.org/on_correlation).
 * Git / testing exercise at <https://github.com/nipraxis/pearson>.
 * [Voxel correlation
 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
