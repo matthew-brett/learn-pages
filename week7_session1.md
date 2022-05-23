@@ -3,7 +3,7 @@
 
 ## Recording
 
-We will post this after the Tuesday session.
+[Monday session](https://bham-ac-uk.zoom.us/rec/share/bWjWyWakL9UGoGlBpBKj4vvtPCWNEYTZjPAb0Jg-p260aUru8e9wBPfLG_EVkyRn.y2-RVfAE6R5FfoxJ)
 
 ## Schedule and plan
 
