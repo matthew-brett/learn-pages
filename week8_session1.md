@@ -3,21 +3,15 @@
 
 ## Recording
 
-We will post the link after the Tuesday session.
+[Tuesday
+session](https://bham-ac-uk.zoom.us/rec/share/X9Xjg5oHR7x4NghKT2DLfXgWi8nvr9-wsRl-OCVJZ8PdxqRMTe25PYtib6MLCh8b.WVD9nr_d-l1-lYca)
 
 ## Schedule and plan
 
 * [On regression](https://textbook.nipraxis.org/on_regression)
+* [Regress one voxel](https://textbook.nipraxis.org/regress_one_voxel.html)
 * [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
 * [On dummies exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
-* [Worked example of general linear
-  model](https://textbook.nipraxis.org/mean_test_example.html)
-* [Model one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
-* [Hypothesis testing](https://textbook.nipraxis.org/hypothesis_tests.html)
-* [Dummy hypothesis
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
-* [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
-* [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
 
 ## That's it.
 
