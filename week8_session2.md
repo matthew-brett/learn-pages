@@ -4,18 +4,19 @@
 
 ## Recording
 
-We will post the link after the Friday session.
+[Friday
+session](https://bham-ac-uk.zoom.us/rec/share/p7loT0gDPOrYuPCzmJK75FwTjXcNaBLC1pXKcz3qmtLWWU75VyFYEVLfQ-_sfSwU.bvhPMPxvQN2fyR7h).
 
 ## Schedule and plan
 
 * [Worked example of general linear
   model](https://textbook.nipraxis.org/mean_test_example.html)
-* [Model one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
-* [Hypothesis testing](https://textbook.nipraxis.org/hypothesis_tests.html)
-* [Dummy hypothesis
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
 * [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
 * [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
+* [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
+* [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
+* [Dummy hypothesis
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
 
 ## Reading and homework for next week
 
