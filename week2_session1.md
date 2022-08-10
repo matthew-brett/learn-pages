@@ -9,6 +9,7 @@ We will post the recording after the session
 
 ### Arrays, images and plotting
 
+* [Writing and reading files](https://textbook.nipraxis.org/pathlib)
 * [Arrays and images](https://textbook.nipraxis.org/arrays_and_images)
 * [Camera
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
