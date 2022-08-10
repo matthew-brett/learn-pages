@@ -1,19 +1,15 @@
-The first session is the Monday or Tuesday session — whichever you have chosen
-to join.
+The first session is the Monday session. The second session is the Wednesday
+session.
 
-The second session is the Thursday or Friday session.
-
-These are the notes for the session.
+These are the notes for the Monday session.
 
 We will update them before and after the session, to please keep checking back for updates.  Just refresh the page in your browser to get updates.
 
-The Zoom link for the Monday session is <https://bham-ac-uk.zoom.us/j/87903087978?pwd=OEtJbXBCekRiRjV2UkJnRmtxbUxXUT09>.
-
-The Tuesday Zoom link is <https://bham-ac-uk.zoom.us/j/86508385148?pwd=WjNSdTdQUWkyWjRwVjBTeTVjSGczQT09>.
+The Zoom link for the Monday session is <https://us06web.zoom.us/j/82417762885?pwd=WFhic1ZUbGpSUk5TN1lhcFkzUHFsUT09>.
 
 ## Recording
 
-[Recording from Tuesday session](https://bham-ac-uk.zoom.us/rec/share/5fw3ym-BAdaLhWb58LFnIb6ClIwewh4IrMJ12FIh8icHahwS5RBCN74zBosso395.jRuTMmVJzRm5PB3r).
+[Recording of Monday Week 1](https://us06web.zoom.us/rec/share/eqtXdl5W4CldBX9QFEmwoTbHe4Qjx26d0uhcKQgbXcXESXkVyl-9YHkh5RpjSHkk.F9L7r43jzciYF9RI)
 
 ## Schedule and plan
 
@@ -33,9 +29,6 @@ The Tuesday Zoom link is <https://bham-ac-uk.zoom.us/j/86508385148?pwd=WjNSdTdQU
   and [more on Jupyter
   notebooks](https://textbook.nipraxis.org/more_on_jupyter.html)
 - [Very fast introduction to Python](https://textbook.nipraxis.org/introducing_python.html)
-- [First analysis exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_analysis&subPath=first_analysis.ipynb)
-- If we have time: [expressions and
-  statements exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/exprs_states&subPath=exprs_states.ipynb)
 
 See:
 
@@ -43,19 +36,5 @@ See:
 
 ## For homework
 
-Your revision is some practice programming in Python, from the Google Python
-course.
-
-Read the [fast introduction to
-Python](https://textbook.nipraxis.org/brisk_python.html).
-
-- [string1 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_string1&subPath=string1.ipynb)
-- [list1 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list1&subPath=list1.ipynb)
-
-Consider doing:
-
-- [string2 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_string2&subPath=string2.ipynb)
-- [list2 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list2&subPath=list2.ipynb)
-
-
-That's it for the first session.
+Finish going through the [very fast introduction to
+Python](https://textbook.nipraxis.org/introducing_python.html).
