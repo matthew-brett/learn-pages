@@ -8,7 +8,8 @@ We will update them before and after the session, to please keep checking back f
 
 ## Recording
 
-We will put the recording up after the session.
+[Recording for Week 1 session
+2](https://us06web.zoom.us/rec/share/_tNBj_xYsKeUtcEzOVrpEZPUW5sB9H7iCy5MiFn7TEssfTfZdbYd2cF3mIaJL3EB.dSxUNmVQ1nOq6jwl).
 
 ## Schedule and plan
 
@@ -17,10 +18,6 @@ We will put the recording up after the session.
 * [Introduction to Numpy](https://textbook.nipraxis.org/numpy_intro.html)
 * [Arrays
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
-* [Arrays and images](https://textbook.nipraxis.org/arrays_and_images)
-* [Camera
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
-* [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
 
 ## For homework
 
