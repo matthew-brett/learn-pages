@@ -2,12 +2,15 @@
 
 We will post this after the session.
 
-### Arrays and images
+### Into three dimensions
 
-* [Arrays and images](https://textbook.nipraxis.org/arrays_and_images)
-* [Camera
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
 * [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
+* [Images in 3D](https://textbook.nipraxis.org/images_3d)
+* [Reshape and 3D](https://textbook.nipraxis.org/reshape_and_3d)
+* [Anatomical
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+
+### A git walkthrough
 
 ## For homework
 
