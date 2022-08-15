@@ -1,6 +1,6 @@
 ## Recording
 
-We will post the recording after the session
+[Week 2 session 1 recording](https://us06web.zoom.us/rec/share/anH1B-3lqi4x0uoNqITUvm_rklXNqSed8ZVtfncaJAtw_49dPSZ6cR8OXinTrnrf.20TxauNv5pqx8Y0U)
 
 ### Arrays, images and plotting
 
