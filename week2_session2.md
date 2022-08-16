@@ -47,15 +47,18 @@ editor](https://textbook.nipraxis.org/choosing_editor.html).
 
 Here we a list of videos on choosing text editors:
 
-* [Stéfan van der Walt on Emacs](https://vimeo.com/702404210)
-* [Pamphile Roy on PyCharm](https://vimeo.com/702001724)
-* Short version of [Ilhan Polat on Spyder](https://vimeo.com/702215618).  You
-  can also watch the [54 minute full conversation with
-  Ilhan](https://vimeo.com/706101324).
-* [Bhuvak Kalra on VSCode](https://vimeo.com/702402879)
-* [Paul Ivanov on Vim](https://vimeo.com/704733982).  This video is about 43
-  minutes, and longer than the others, I will edit it down to 10 minutes in
-  due course.  It might be interesting for a more general discussion of how you know when you have the right editor, how long it takes to get going with Vim, and other stuff.
+* Edited version of [Stéfan van der Walt on
+  Emacs](https://vimeo.com/740066780) (16 minutes).  You might prefer the [full
+  24 minute version of the conversation here](https://vimeo.com/702404210).
+* [Pamphile Roy on PyCharm](https://vimeo.com/702001724) (16 minutes).
+* Edited version of [Ilhan Polat on Spyder](https://vimeo.com/702215618) (14
+  minutes).  You can also watch the [54 minute full conversation with Ilhan](https://vimeo.com/706101324).
+* [Bhuvak Kalra on VSCode](https://vimeo.com/702402879) (16 minutes).
+* Edited version of [Paul Ivanov on
+  Vim](https://vimeo.com/740121174) (15 minutes).  You can watch the [full 43
+  minute conversation with Paul Ivanov here](https://vimeo.com/704733982). You
+  might watch the full version if you interested in more on how you know when
+  you have the right editor, how long it takes to get going with Vim.
 
 Please take time for this task, and investigate your options.
 
