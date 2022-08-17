@@ -7,6 +7,10 @@ We will post this after the session.
 Notice the homework, and in particular, the sections on Choosing a Text Editor,
 and Markdown.
 
+### A git walkthrough
+
+See: <https://github.com/nipraxis/first-validation>
+
 ### Into three dimensions
 
 * [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
@@ -16,8 +20,6 @@ and Markdown.
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
 * If you have finished the Anatomical exercise, try the [Arteries
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
-
-### A git walkthrough
 
 ## For homework
 
