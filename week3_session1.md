@@ -4,12 +4,6 @@ We will post that after the sessions.
 
 ## Schedule and plan
 
-We will have an Easter break.
-
-No class this week on Thursday or Friday.
-
-No class next week on Monday or Tuesday.
-
 ### 3D arrays images
 
 Debugging in for-loops and scripts.
