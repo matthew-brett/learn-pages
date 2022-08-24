@@ -103,9 +103,3 @@ following:
 ## That's it.
 
 That's it for this session.
-## For homework
-
-
-## That's it.
-
-That's it for this session.
