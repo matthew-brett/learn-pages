@@ -1,6 +1,7 @@
 ## Recording
 
-We will post the recording after the session.
+[Week 3 session 2
+recording](https://us06web.zoom.us/rec/share/42btsiBTI_mmRgU-EhsO8Zu_dJKySs_4MI7dDBP9KGTLcWUOAZFOQivAgAEtO_Kh.uRQQBO-BRlLfg_B6)
 
 ## Schedule and plan
 
@@ -16,22 +17,6 @@ We will post the recording after the session.
 * [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
 * [Four dimensions
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
-
-### Modules and functions
-
-* [on_modules](https://textbook.nipraxis.org/on_modules).
-
-```
-git clone https://github.com/nipraxis/first_module
-cd first_module
-ipython
-```
-
-then (in IPython):
-
-```
-run spm_funcs.py
-```
 
 ### Reading and homework for next week
 
