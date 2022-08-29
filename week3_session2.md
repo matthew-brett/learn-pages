@@ -75,8 +75,8 @@ following:
     using the "Fork" button towards the top right.
 *   **Clone** your fork of this repository to your computer.
 *   **Make and checkout a new branch** called `spm-funcs-fixes`.
-*   Make the same edits you made when you did this exercise as the
-    `first_module` exercise.  The instructions are in the `spm_funcs.py` file.
+*   Make the changes given in the instructions at the top of the `spm_funcs.py`
+    file.
 *   `git add` these changes, then `git commit` the changes.
 *   **Push** the changes from this branch up to your fork.  Make sure you
     are pushing the new branch.

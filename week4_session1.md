@@ -28,6 +28,8 @@ then (in IPython):
 run spm_funcs.py
 ```
 
+On debugging.
+
 ### Some more background
 
 * [Reshape and 4D](https://textbook.nipraxis.org/reshape_and_4d)

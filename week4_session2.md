@@ -1,107 +1,125 @@
-The *second session* is the Thursday or Friday session — whichever you have
-chosen to join.
-These are the notes for the second session, for week 2.
-
-We will update them before and after the session, to please keep checking back for updates.  Just refresh the page in your browser to get updates.
-
-* Thursday 15:00 UTC session: [Thursday Zoom
-  link](https://bham-ac-uk.zoom.us/j/85697917669?pwd=R09RRVoxSXl5YnVjVDVuN3NDM2lCdz09)
-* Friday 18:00 UTC session: [Friday Zoom link](https://bham-ac-uk.zoom.us/j/82522323304?pwd=VjRRWDNkZjF5clBDd3FNNGJWcTUyZz09).
-
 ## Recording
 
-[Link to Thursday recording](https://bham-ac-uk.zoom.us/rec/share/ZJ3xT8aTQlF5IImafSNW58-2oDbfc2xchK_P1NNnG-GK9wSzJHtl3QrVNF3kY6XP.A_11GhqJI1XpX_5S?startTime=1651158428000)
+We will post this after the session
 
 ## Schedule and plan
 
-* The final project.
-* Start of command-line / text editor workflow.
+* Github workflow and the final project.
 
-### Modules and functions
+### Working with the template repo
 
-Quick walk through of the [Four dimensions
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
+Diagram of the workflow:
 
-Then see [on_modules](https://textbook.nipraxis.org/on_modules).
+![](https://nipraxis.org/fall-2022/assets/images/github_workflow.png)
 
-### Exercise
 
-```
-git clone https://github.com/nipraxis/first_module
-cd first_module
-ipython
-```
+Team leader:
 
-then (in IPython):
+0. Before you start, agree a team name with your team, and get your team
+   members' Github usernames — e.g. `matthew-brett`.
+1. Go to <https://github.com/nipraxis/diagnostics-template>
+2. Open the Issues tab.  You can get there directly by appending `issues` to
+   the URL, like this:
+   <https://github.com/nipraxis/diagnostics-template/issues>
+3. Make a "New Issue".
+4. In the issue, ask for a new diagnostics repository for your team.  Specify
+   a *name* for your team.
+5. Wait for our response, on that issue.
+6. You will get an email inviting you to a new repository named
+   `nipraxis-spring-2022/diagnostics-<teamname>` where `<teamname>` is the
+   name you specified in your issue.
+7. Go to the link for your repository.  It will be of form
+   `https://github.com/nipraxis-spring-2022/diagnostics-<teamname>`.
+8. Make sure you know the Github usernames of your team members.
+9. Go to the Settings tab.
+10. Click on "Collaborators and Teams" on the left.
+11. Click on "Add people".  Add the team members with whatever permissions you
+    agree.  Maybe "maintain" is a good default.
+12. Wait for your team members to accept their invitations.
 
-```
-run spm_funcs.py
-```
+Everyone (including the team leader):
+
+1. You should get an invitation to your team repository.
+2. Click on the link, that should be of form
+   `https://github.com/nipraxis-spring-2022/diagnostics-<teamname>`, where `<teamname>` is your agreed team name.
+3. Click on the "Fork" button near the top right of the screen.
+4. Accept the defaults, click "Create Fork".
+5. Now you should be at a new page, with URL of form:
+   `https://github.com/<your-gh-user>/diagnostics-<teamname>` where `<your-gh-user>` is your Github username.
+6. Click on the green "Code" button, select the "SSH" tab.  Copy the link
+   there, which will be of form:
+   `git@github.com:<your-gh-user>/diagnostics-<teamname>`.  If you haven't got
+   SSH keys set up yet have a look at [setting up SSH keys on
+   Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).  If you really get stuck use the "HTTPS" tab and link instead of the "SSH" tab.
+7. Open a terminal on your computer.  Change to a suitable directory to store
+   your code.  Consider `cd $HOME/nipraxis` if you don't have a strong
+   alternative preference.
+8. Type a suitably modified version of this command: `git clone
+   git@github.com:<your-gh-user>/diagnostics-<teamname>`, replacing the
+   relevant parts with your username and your team name.  (If you had to use
+   HTTPS above, modify the clone command here accordingly).
+9. You should now have a local *clone* of your *fork*.
+10. Change directory to the new cloned repository, with command of form `cd
+    diagnostics-<teamname>`.
+11. Add a new *remote* that points to the main "upstream" version of your team
+    code, using a command of form: `git remote add upstream https://github.com/nipraxis-spring-2022/diagnostics-<teamname>`.
+12. Check your remote worked with the command `git fetch upstream`.
+13. Make a new feature branch `editing-readme`, with the command `git branch
+    editing-readme`.
+14. Checkout this branch with `git checkout editing-readme`.
+15. Make sure you are up to date with the latest code from upstream with `git
+    merge upstream/main`.  This may do nothing, if there are no new changes in
+    the upstream `main` branch.
+16. Use your text editor to make a change to the `README.md` file.
+17. `git add README.md`
+18. `git commit` (if you have your text editor set up correctly to work with
+    Git) or `git commit -m 'Edit to README'` (if you do not).
+19. Push up your changes to your *fork* with `git push origin editing-readme
+    --set-upstream`.
+20. Go to your fork URL (of form
+    `https://github.com/<your-gh-user>/diagnostics-<teamname>`)
+21. You should see a new green "Compare and pull request" button for your
+    `editing-readme` branch. Click on that, fill in the description and submit the pull request.
+
+The team leader should:
+
+1. Go to the main repository page — of form
+   `https://github.com/nipraxis-spring-2022/diagnostics-<teamname>`.
+2. Select one or more of the Pull requests to merge, and merge it / them.
+
+## Modules and testing
+
+* [sys.path](https://textbook.nipraxis.org/sys_path)
+* [assert](https://textbook.nipraxis.org/assert)
+* [path manipulation](https://textbook.nipraxis.org/path_manipulation)
+* [docstrings](https://textbook.nipraxis.org/docstrings)
 
 ### Reading and homework for next week
 
-There is a well-done video on Git and Github on Youtube, link below.
+You should have received a pull request into your upstream repository.  Please check there for the homework.
 
-Here are a few notes before you watch the video.
+If you do not see a pull request, please email
+<mailto:matthew.brett@gmail.com>.
 
-The video concentrates on the use of Git / Github for programmers, but all the
-same things apply to scientists and academics writing collaborative projects
-and papers.
+The pull request has instructions, and some more pages to read.
 
-It starts very basic, but bear with, it quickly gets on the specific stuff we
-have not covered elsewhere, on using Git with Github.
+Your task:
 
-The author is using the old-style default branch naming in Git, where the
-default branch is called `master`.  The default branch, for modern Git, is now
-called `main`.  Just read `main` for `master` throughout.
+* Merge the pull request.
+* Go to your local clone of your fork.
+* `git fetch upstream`
+* `git branch fix-detectors upstream/main`
+* `git checkout fix-detectors`
 
-I would set up your Github account with an SSH key following the [Github
-instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-before you start the video.  Although the video suggests that having no
-passphrase for your SSH key is OK, we would not recommend that.  We suggest you
-do in fact have a reasonably long (but memorable) SSH key passphrase.
+For instructions, look in the files:
 
-The video starts using the terminal from within VSCode.  The author says this
-later, but this is just the same as using terminal outside VSCode, so if you
-are not using VSCode, just type the same commands in the terminal.
+* `findoutlie/spm_funcs.py`
+* `findoutlie/detectors.py`
 
-The video uses the `-m` flag to `git commit` to provide a commit message and
-maybe a description.  We suggest you don't do that, and you set up your editor
-to work with Git, so when you type `git commit`, Git will open your editor for
-you to type a message.
+And then work on the code to run the given commands and fix the errors, until
+you get `Tests passed` from both given commands (see instructions in the PR).
 
-#### Setting your default editor for Git
-
-The usual default editor for Git is Vim, so if you want that, you don't need to change anything.  If you don't then:
-
-* [General instructions for some common editors](https://koenwoortman.com/git-change-default-editor/) including Emacs and VSCode.
-* [For
-  VSCode](https://dev.to/deadlybyte/make-vs-code-your-default-git-editor-j6d)
-* [For PyCharm](https://clt.champlain.edu/kb/configuring-git-with-pycharm)
-
-#### The video
-
-The video is [Git and Github for
-Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk).
-
-#### After the video
-
-To make sure you understand most of the material in the video, do the
-following:
-
-*   **Fork** the repository at <https://github.com/nipraxis/first-pull-request>
-    using the "Fork" button towards the top right.
-*   **Clone** your fork of this repository to your computer.
-*   **Make and checkout a new branch** called `spm-funcs-fixes`.
-*   Make the same edits you made when you did this exercise as the
-    `first_module` exercise.  The instructions are in the `spm_funcs.py` file.
-*   `git add` these changes, then `git commit` the changes.
-*   **Push** the changes from this branch up to your fork.  Make sure you
-    are pushing the new branch.
-*   Do a **Pull request** from this new branch to the original (base)
-    repository `master` branch at
-    <https://github.com/nipraxis/first-pull-request>
-*   We will review your pull request!
+Now push, and make a pull request.   Work together to find the best solution, review the pull request, and merge it.
 
 ## That's it.
 
