@@ -1,6 +1,7 @@
 ## Recording
 
-We will post this after the session
+[Week 4 session 1
+recording](https://us06web.zoom.us/rec/share/BJ6zAAsR2o7TyXni3ZRnvyMobzf668GZ0ghzTE6ggvdkUFlETSx0gYXfAOu_Mg0b.tGczoGFBiofLNywH)
 
 ## Schedule and plan
 
