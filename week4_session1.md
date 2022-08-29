@@ -38,11 +38,13 @@ On debugging.
 * [Voxel time course
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
 
-If there is time:
+## Homework
 
-* [sys.path](https://textbook.nipraxis.org/sys_path)
-* [assert](https://textbook.nipraxis.org/assert)
-* [docstrings](https://textbook.nipraxis.org/docstrings)
+* Make sure you've read and understood the
+  [on_modules](https://textbook.nipraxis.org/on_modules) page, and particularly
+  the last sections.
+* Then do the [voxel time course
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
 
 ## That's it.
 
