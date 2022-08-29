@@ -96,7 +96,8 @@ The team leader should:
 
 ### Reading and homework for next week
 
-You should have received a pull request into your upstream repository.  Please check there for the homework.
+You should have received a pull request into your upstream repository.  Please
+check there for the homework.
 
 If you do not see a pull request, please email [Matthew](mailto:matthew.brett@gmail.com).
 
