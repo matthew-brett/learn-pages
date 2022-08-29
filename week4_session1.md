@@ -38,6 +38,12 @@ On debugging.
 * [Voxel time course
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
 
+If there is time:
+
+* [sys.path](https://textbook.nipraxis.org/sys_path)
+* [assert](https://textbook.nipraxis.org/assert)
+* [docstrings](https://textbook.nipraxis.org/docstrings)
+
 ## That's it.
 
 That's it for this session.

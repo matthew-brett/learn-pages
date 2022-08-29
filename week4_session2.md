@@ -91,15 +91,14 @@ The team leader should:
 
 * [sys.path](https://textbook.nipraxis.org/sys_path)
 * [assert](https://textbook.nipraxis.org/assert)
-* [path manipulation](https://textbook.nipraxis.org/path_manipulation)
 * [docstrings](https://textbook.nipraxis.org/docstrings)
+* [validating data](https://textbook.nipraxis.org/validating_data)
 
 ### Reading and homework for next week
 
 You should have received a pull request into your upstream repository.  Please check there for the homework.
 
-If you do not see a pull request, please email
-<mailto:matthew.brett@gmail.com>.
+If you do not see a pull request, please email [Matthew](mailto:matthew.brett@gmail.com).
 
 The pull request has instructions, and some more pages to read.
 
