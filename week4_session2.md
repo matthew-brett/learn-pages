@@ -10,7 +10,7 @@ We will post this after the session
 
 Diagram of the workflow:
 
-![](https://nipraxis.org/fall-2022/assets/images/github_workflow.png)
+![](https://nipraxis.org/fall-2022/assets/images/github_workflow.svg)
 
 
 Team leader:
@@ -46,18 +46,18 @@ Everyone (including the team leader):
 4. Accept the defaults, click "Create Fork".
 5. Now you should be at a new page, with URL of form:
    `https://github.com/<your-gh-user>/diagnostics-<teamname>` where `<your-gh-user>` is your Github username.
-6. Click on the green "Code" button, select the "SSH" tab.  Copy the link
+6. Click on the green "Code" button, select the "HTTPS" tab.  Copy the link
    there, which will be of form:
-   `git@github.com:<your-gh-user>/diagnostics-<teamname>`.  If you haven't got
-   SSH keys set up yet have a look at [setting up SSH keys on
-   Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).  If you really get stuck use the "HTTPS" tab and link instead of the "SSH" tab.
+   `https://github.com/<your-gh-user>/diagnostics-<teamname>`.  If you have got
+   SSH keys set up, you might instead consider using the "SSH" tab, and link.
 7. Open a terminal on your computer.  Change to a suitable directory to store
-   your code.  Consider `cd $HOME/nipraxis` if you don't have a strong
-   alternative preference.
+   your code.  Consider `cd $HOME/Documents/nipraxis-work` if you don't have
+   a strong alternative preference.
 8. Type a suitably modified version of this command: `git clone
-   git@github.com:<your-gh-user>/diagnostics-<teamname>`, replacing the
-   relevant parts with your username and your team name.  (If you had to use
-   HTTPS above, modify the clone command here accordingly).
+   https://github.com/<your-gh-user>/diagnostics-<teamname>`, replacing the
+   relevant parts with your username and your team name.  (If you used
+   SSH above, modify the clone command to something of form `git clone
+   git@github.com:<your-gh-user>/diagnostics-<teamname>`
 9. You should now have a local *clone* of your *fork*.
 10. Change directory to the new cloned repository, with command of form `cd
     diagnostics-<teamname>`.
@@ -71,14 +71,16 @@ Everyone (including the team leader):
     merge upstream/main`.  This may do nothing, if there are no new changes in
     the upstream `main` branch.
 16. Use your text editor to make a change to the `README.md` file.
-17. `git add README.md`
-18. `git commit` (if you have your text editor set up correctly to work with
+17. Confirm Git agrees that you have changed the file with  `git status`
+18. Add the file to the staging area with `git add README.md`
+19. Confirm Git agrees that you have added the file with  `git status`
+20. `git commit` (if you have your text editor set up correctly to work with
     Git) or `git commit -m 'Edit to README'` (if you do not).
-19. Push up your changes to your *fork* with `git push origin editing-readme
+21. Push up your changes to your *fork* with `git push origin editing-readme
     --set-upstream`.
-20. Go to your fork URL (of form
+22. Go to your fork URL (of form
     `https://github.com/<your-gh-user>/diagnostics-<teamname>`)
-21. You should see a new green "Compare and pull request" button for your
+23. You should see a new green "Compare and pull request" button for your
     `editing-readme` branch. Click on that, fill in the description and submit the pull request.
 
 The team leader should:
@@ -96,8 +98,8 @@ The team leader should:
 
 ### Reading and homework for next week
 
-You should have received a pull request into your upstream repository.  Please
-check there for the homework.
+You should (on Thursday) have received a pull request into your upstream
+repository.  Please check there for the homework.
 
 If you do not see a pull request, please email [Matthew](mailto:matthew.brett@gmail.com).
 
