@@ -1,10 +1,28 @@
 ## Recording
 
-We will post this after the session
+[Week 4 session
+2](https://us06web.zoom.us/rec/share/zSUlLCP2mW2D18zyCV3e-h0a3SN_agKBOa5FWHjBtX0QCIyZx1zEWwktpNOqwOeS.X4YoDtxaktmAkcsd)
 
 ## Schedule and plan
 
 * Github workflow and the final project.
+
+### On the benefits of searching for the right solution
+
+We discussed the phenomenon that scientific programmers often stall at
+a certain level, and do not continue learning.
+
+The key to learning is *deliberative practice*, as [Peter
+Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) discusses in his page
+[Teach Yourself Programming in 10 years](https://www.norvig.com/21-days.html).
+
+On the other hand, being good at programming *quickly* has some costs. [Peter
+Norvig notes that Google employees do slightly less well if they have
+previously won a programming
+competition](https://www.youtube.com/watch?v=DdmyUZCl75s), and speculates this
+is because the best programmers think hard and for a long time about the right
+solution.  We recommend this course to you, of taking time to reflect on the
+right way to solve each problem.
 
 ### Working with the template repo
 
