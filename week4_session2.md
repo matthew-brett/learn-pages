@@ -133,7 +133,7 @@ Your task:
 
 For instructions, look in the files:
 
-* `findoutlie/spm_funcs.py`
+* `scripts/validate_data.py`
 * `findoutlie/detectors.py`
 
 And then work on the code to run the given commands and fix the errors, until
