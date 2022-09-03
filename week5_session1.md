@@ -52,10 +52,20 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
     # You may be able to omit the --user below
     python3 -m pip install --user flit
     # Use Flit to install the module.
-    python3 -m flit install -s
+    python3 -m flit install --user -s
     ```
 
-    Tell us if this does not work for you.
+*   Now test that you can import the `findoutlie` module by running this
+    command.  The `-c` flag tells Python to run the code that follows the `-c`
+    flag.
+
+    ```
+    python3 -c 'import findoutlie'
+    ```
+
+    This should give *no error*, because the previous step installed the
+    `findoutlie` directory module to somewhere on Python's search path. Tell us
+    if any of the commands above did give an error.
 
 *   Run the test command:
 
