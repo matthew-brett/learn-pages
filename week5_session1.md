@@ -5,9 +5,10 @@ We will post this after the session.
 ## Schedule and plan
 
 * @ mentions on Github.
+* [Module directories](https://textbook.nipraxis.org/module_directories.html)
 * [On testing](https://textbook.nipraxis.org/on_testing)
 
-### DVars and testing
+### DVARS and testing
 
 We will be working with the [DVARS
 metric](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5915574/).
@@ -17,7 +18,8 @@ The reference above defines DVARS as the "spatial root mean square".
 It's a measure of the difference in the voxel values between two volumes.
 
 Assume `this_vol` is one 3D array representing a volume, and `prev_vol` is
-another 3D array representing a volume.  The DVARS difference between these two volumes is:
+another 3D array representing a volume.  The DVARS difference between these two
+volumes is:
 
 ```{python}
 vol_diff = this_vol - prev_vol
@@ -27,8 +29,8 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
 * Go to your breakout rooms as usual.
 * We will send a pull request to the Github repository of your project's
   upstream repository.
-* A team member should merge the pull request on Github.
-* The *driver* for your session should do the following steps, with the
+* A team member (maybe the *driver*) should merge the pull request on Github.
+* The driver for your session should do the following steps, with the
   *navigators* instructing the driver what to do, and watching for (the
   inevitable) mistakes.
 * The rest of the steps are for the *driver*.
@@ -43,6 +45,17 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
     git branch add-dvars upstream/main --no-track
     git checkout add-dvars
     ```
+*   Install your new directory module `findoutlie`. To do this:
+
+    ```
+    # Flit is a system for configuring and installing modules.
+    # You may be able to omit the --user below
+    python3 -m pip install --user flit
+    # Use Flit to install the module.
+    python3 -m flit install -s
+    ```
+
+    Tell us if this does not work for you.
 
 *   Run the test command:
 
@@ -58,24 +71,12 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
 
     and try again.
 
-*   You might consider also *installing* your new directory module
-    `findoutlie`. To do this:
-
-    ```
-    # You may be able to omit the --user below
-    python3 -m pip install --user flit
-    python3 -m flit install -s
-    ```
-
-    Don't worry if this does not work, or is confusing.  We will come back to
-    that later.
-
 *   Read the files:
 
     * `findoutlie/metrics.py` and
     * `findoutlie/tests/test_dvars.py`
 
-    and complete these to make the tests pass.
+    and complete the `findoutlie/metrics.py` to make the tests pass.
 
 * **Hint 1** — one of the ways to write the `dvars` function in the most
   efficient way, would use ideas from [4D to 2D reshaping
