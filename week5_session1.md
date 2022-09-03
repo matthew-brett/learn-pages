@@ -88,9 +88,16 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
 
 ### Voxel statistics
 
-If we have time.
+If we have time...
 
-* Git / testing exercise at <https://github.com/nipraxis/pearson>.
+*   Git / testing exercise at <https://github.com/nipraxis/pearson>.
+
+    ```
+    git clone https://github.com/nipraxis/pearson
+    cd pearson
+    pytest .
+    ```
+
 * [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses).
 * [Voxel correlation
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
