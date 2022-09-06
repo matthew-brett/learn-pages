@@ -54,8 +54,14 @@ output as you from the outlier detection script.
 
 * Agree a project analysis plan with your group.
 * Write it up as `analysis_plan.md` and make a pull request to your upstream repository.
-* When you think it is ready to merge, @ mention the instructors.   We will
-  review your analysis plan and approve it.
+*   When you think it is ready to merge, @ mention the instructors by
+    adding a comment to the pull-request on the lines of:
+
+    > @instructors - this plan is now ready for review.
+
+    We will review your analysis plan, discuss and then Approve it using the
+    Github interface.
+
 * All by Monday next week!
 
 ## That's it.
