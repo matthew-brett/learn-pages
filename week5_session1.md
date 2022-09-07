@@ -46,36 +46,15 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
     git branch add-dvars upstream/main --no-track
     git checkout add-dvars
     ```
-*   Install your new directory module `findoutlie`. To do this, first install
-    the Flit Python package manager:
+*   Install your new directory module `findoutlie` using the Python package
+    manager *Pip*.  Here we are using the `--editable` flag to tell Pip to
+    install the package in *editable* mode.  In this mode, when you make
+    changes to the package files, you see the changes in the installed package
+    immediately, without having to do another install.  You may or may not need
+    the `--user` flag.  Try with `--user`, and drop `--user` if that fails.
 
     ```
-    # Flit is a system for configuring and installing modules.
-    # You may be able to omit the --user below
-    python3 -m pip install --user flit
-    ```
-
-    Next install the module using Flit.  Here the command differs on Windows
-    compared to Linux or macOS.
-
-    <!---
-    Check!  Can we use `pip install -e` with modern Pip, on both systems?
-    -->
-
-    For macOS and Linux:
-
-    ```
-    # On macOS or Linux.  See below for Windows command.
-    # Use Flit to install the module.
-    python3 -m flit install --user -s
-    ```
-
-    On Windows:
-
-    ```
-    # On Windows.  See above for macOS and Linux
-    # Use Flit to install the module.
-    python3 -m flit install --user --pth-file
+    python3 -m pip install --user --editable .
     ```
 
 *   Now test that you can import the `findoutlie` module by running this
