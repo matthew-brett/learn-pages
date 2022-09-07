@@ -6,14 +6,14 @@ We will post this after the session.
 
 ### Details about the project
 
-#. Fill out the script and any needed library code to run
+1. Fill out the script and any needed library code to run
    `scripts/find_outliers.py data` on your data, and return a list of
    outlier volumes for each scan (where there is an outlier);
-#. You should add a text file giving a brief summary for each outlier scan,
+2. You should add a text file giving a brief summary for each outlier scan,
    why you think the detected scans should be rejected as an outlier, and your
    educated guess as to the cause of the difference between this scan and the
    rest of the scans in the run;
-#. You should do this by collaborating in your teams using git and github;
+3. You should do this by collaborating in your teams using git and github;
 
 We will rate you on:
 
