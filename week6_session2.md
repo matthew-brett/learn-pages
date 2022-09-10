@@ -54,7 +54,6 @@ output as you from the outlier detection script.
 * [Assert](https://textbook.nipraxis.org/assert)
 * [Testing](https://textbook.nipraxis.org/on_testing)
 * Stimuli exercise: `git clone https://github.com/nipraxis/stimutils`
-* [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses)
 
 ### Reading and homework for next week
 
