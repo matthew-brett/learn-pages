@@ -13,6 +13,8 @@ A reminder about the project.
 * [HRF
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/make_hrf&subPath=make_hrf.ipynb)
 * [On regression](https://textbook.nipraxis.org/on_regression)
+* [Basic regression
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/regression_estimation&subPath=regression_estimation.ipynb).
 * [Regress one voxel](https://textbook.nipraxis.org/regress_one_voxel.html)
 * [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
 * [On estimation
