@@ -1,94 +1,28 @@
-* [Monday session Zoom link](https://bham-ac-uk.zoom.us/j/87903087978?pwd=OEtJbXBCekRiRjV2UkJnRmtxbUxXUT09)
-* [Tuesday session Zoom link](https://bham-ac-uk.zoom.us/j/86508385148?pwd=WjNSdTdQUWkyWjRwVjBTeTVjSGczQT09)
-
 ## Recording
 
-[Monday session](https://bham-ac-uk.zoom.us/rec/share/bWjWyWakL9UGoGlBpBKj4vvtPCWNEYTZjPAb0Jg-p260aUru8e9wBPfLG_EVkyRn.y2-RVfAE6R5FfoxJ)
+We will post the recording after the session.
 
 ## Schedule and plan
 
-### DVars and testing
+* [The General Linear Model](https://textbook.nipraxis.org/glm_intro) (on
+  dummy coding and following).
+* [On dummies
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
+* [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
+* [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
+* [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
+* [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
+* [Dummy hypothesis
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
 
-We will be working with the [DVARS
-metric](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5915574/).
+Also see: a [worked example of general linear
+  model](https://textbook.nipraxis.org/mean_test_example.html)
 
-The reference above defines DVARS as the "spatial root mean square".
+## Homework
 
-It's a measure of the difference in the voxel values between two volumes.
-
-Assume `this_vol` is one 3D array representing a volume, and `prev_vol` is
-another 3D array representing a volume.  The DVARS difference between these two volumes is:
-
-```{python}
-vol_diff = this_vol - prev_vol
-dvar_val = np.sqrt(np.mean(vol_diff ** 2))
-```
-
-Your task, should you choose to accept it, is the following.
-
-* Nominate a team member, and tell us (your instructors) the URL of the NTM's
-fork of your diagnostics project.  For example if your diagnostics project
-upstream was `https://github.com/nipraxis-spring-2022/diagnostics-example` and
-`matthew-brett` was the Github username of the NTM, then you would sent the
-URL `https://github.com/matthew-brett/diagnostics-example`.
-* We will then make pull request to the Github repository of your NTM.
-* The NTM should:
-  * Merge the pull request on Github
-  * On their own computer do a `git fetch origin` inside their diagnostics
-  repository.
-  * Start a new branch to do a PR to the upstream repository with:
-
-    ```
-    git branch add-dvars origin/main --no-track
-    git checkout add-dvars
-    ```
-
-  * Run the test command:
-
-    ```
-    python3 -m pytest findoutlie/tests/test_dvars.py
-    ```
-
-    If you get an error `No module named pytest`, then run:
-
-    ```
-    python3 -m pip install pytest
-    ```
-
-    and try again.
-
-  * You might consider also *installing* your new directory module `findoutlie`.  To do this:
-
-    ```
-    # You may be able to omit the --user below
-    python3 -m pip install --user flit
-    python3 -m flit install -s
-    ```
-
-    Don't worry if this does not work, or is confusing.  We will come back to
-    that later.
-
-  * Read the files:
-
-    * `findoutlie/metrics.py` and
-    * `findoutlie/tests/test_dvars.py`
-
-    and complete these to make the tests pass.
-
-  * **Hint 1** — one of the ways to write the `dvars` function in the most
-  efficient way, would use ideas from [4D to 2D reshaping
-  page](https://textbook.nipraxis.org/reshape_and_4d.html). You might also
-  benefit from the `np.diff` function.
-
-  * When you have solved this, make a pull request to the upstream repository,
-  and @ mention one of the instructors for a review.
-
-### Voxel statistics
-
-* [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses).
-* Git / testing exercise at <https://github.com/nipraxis/pearson>.
-* [Voxel correlation
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
+Make sure you have done the  [on estimation
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
+from last week.
 
 ## That's it.
 

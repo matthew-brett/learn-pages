@@ -1,6 +1,6 @@
 ## Recording
 
-We will post the recording after the session.
+[Week 6 session 2](https://vimeo.com/749682563).
 
 ## Schedule and plan
 
@@ -13,14 +13,13 @@ A reminder about the project.
 * [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
 * [On estimation
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
-* [On dummies
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
 
 ## Homework
 
 ### Reread, do exercise
 
-* [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
+* [The General Linear Model](https://textbook.nipraxis.org/glm_intro) up to the
+  section on "Dummy coding"
 * [On estimation
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
 

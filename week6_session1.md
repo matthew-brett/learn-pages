@@ -1,9 +1,9 @@
 ## Recording
 
-We didn't record the first half of the session, so I (Matthew) will make a new
-recording covering the material.
+We didn't record the first half of the session, so [here is a new
+recording covering the material](https://vimeo.com/749994305).
 
-Here is the recording for [the second half of week 6 session
+This is the recording for [the second half of week 6 session
 1](https://us06web.zoom.us/rec/share/Eas61ccbo8WMbACyGpYnaMBj9W0zqJaDafftWaGFb72Kn-mISqh9wROMicfpFLc.ntsS9YJ1xYz-vRBM)
 
 ## Schedule and plan

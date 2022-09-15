@@ -1,22 +1,36 @@
-* Thursday 15:00 UTC session: [Thursday Zoom
-  link](https://bham-ac-uk.zoom.us/j/85697917669?pwd=R09RRVoxSXl5YnVjVDVuN3NDM2lCdz09)
-* Friday 18:00 UTC session: [Friday Zoom link](https://bham-ac-uk.zoom.us/j/82522323304?pwd=VjRRWDNkZjF5clBDd3FNNGJWcTUyZz09).
-
 ## Recording
 
-[Thursday session](https://bham-ac-uk.zoom.us/rec/share/2000VPB7cTXii3x1_nYOX8mkZ1HLHoNvDifbQk3XEhV32M3vaGs_fDuhvAiKfIbN.yu08Tz5voIg5ycH8)
+We will post the recording after the session.
 
 ## Schedule and plan
 
-* [on convolution](https://textbook.nipraxis.org/on_convolution)
-* [The hemodynamic response
-function](https://textbook.nipraxis.org/convolution_background)
-* [HRF
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/make_hrf&subPath=make_hrf.ipynb)
+### Statistics wrap-up
 
-## Reading and homework for next week
+* [Whole image
+  statistics](https://textbook.nipraxis.org/whole_image_statistics.html)
 
-Work on your diagnostics projects.
+See also (for reference):
+
+* [Non-integer TR onsets](https://textbook.nipraxis.org/non_tr_onsets).
+* [On correlated
+regressors](https://matthew-brett.github.io/teaching/correlated_regressors.html)
+* [Bonferroni threshold](https://textbook.nipraxis.org/bonferroni_correction).
+* [False Discovery Rate](https://matthew-brett.github.io/teaching/fdr.html)
+* [Random field
+correction](https://matthew-brett.github.io/teaching/random_fields.html).
+
+### Sketch of spatial processing
+
+* [slice timing](https://textbook.nipraxis.org/slice_timing)
+* [slice timing exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/slice_timing&subPath=slice_timing.ipynb)
+
+See also (for reference):
+
+* [optimizing space](https://textbook.nipraxis.org/optimizing_space).
+
+## Homework
+
+Work on your projects.
 
 ## That's it.
 
