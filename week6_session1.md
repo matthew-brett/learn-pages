@@ -1,6 +1,10 @@
 ## Recording
 
-We will post the recording after the session.
+We didn't record the first half of the session, so I (Matthew) will make a new
+recording covering the material.
+
+Here is the recording for [the second half of week 6 session
+1](https://us06web.zoom.us/rec/share/Eas61ccbo8WMbACyGpYnaMBj9W0zqJaDafftWaGFb72Kn-mISqh9wROMicfpFLc.ntsS9YJ1xYz-vRBM)
 
 ## Schedule and plan
 
@@ -13,14 +17,6 @@ A reminder about the project.
 * [HRF
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/make_hrf&subPath=make_hrf.ipynb)
 * [On regression](https://textbook.nipraxis.org/on_regression)
-* [Basic regression
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/regression_estimation&subPath=regression_estimation.ipynb).
-* [Regress one voxel](https://textbook.nipraxis.org/regress_one_voxel.html)
-* [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
-* [On estimation
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
-* [On dummies
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
 
 ## That's it.
 
