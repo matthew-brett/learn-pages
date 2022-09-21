@@ -22,7 +22,8 @@ Also see: a [worked example of general linear
 
 Make sure you have done the  [on estimation
 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
-from last week.
+from last week, and the [dummy hypothesis
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb) from this session.
 
 ## That's it.
 
