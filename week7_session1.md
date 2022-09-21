@@ -1,6 +1,6 @@
 ## Recording
 
-We will post the recording after the session.
+[Week 7 session 1 recording](https://vimeo.com/752182543)
 
 ## Schedule and plan
 

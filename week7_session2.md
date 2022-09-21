@@ -1,6 +1,6 @@
 ## Recording
 
-We will post the recording after the session.
+[Week 7 session 2 recording](https://us06web.zoom.us/rec/share/i5Ol4jPQqfKMXKLfYU4QXPAZaeV3ZH6Qip7lF3RBUqAOP-5uUTzFj6CVc-bTacM.NtJQhR__teZcoQhY)
 
 ## Schedule and plan
 
@@ -26,7 +26,6 @@ See also (for reference):
 * [slice timing](https://textbook.nipraxis.org/slice_timing)
 * [slice timing
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/slice_timing&subPath=slice_timing.ipynb)
-* [optimizing space](https://textbook.nipraxis.org/optimizing_space)
 
 ## Homework
 
