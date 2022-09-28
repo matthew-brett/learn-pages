@@ -13,9 +13,9 @@ We will add the recording after the session.
 * [optimizing space](https://textbook.nipraxis.org/optimizing_space)
 * [What extra
 transform](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/what_extra_transform&subPath=what_extra_transform.ipynb)
-* [Dipy registration]((https://textbook.nipraxis.org/dipy_registration)
+* [Dipy registration](https://textbook.nipraxis.org/dipy_registration)
 * [Where should these brain areas
-  go?]((https://textbook.nipraxis.org/anterior_cingulate)
+  go?](https://textbook.nipraxis.org/anterior_cingulate)
 
 ### For your further instruction
 
