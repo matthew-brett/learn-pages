@@ -1,27 +1,29 @@
-* Thursday 15:00 UTC session: [Thursday Zoom
-  link](https://bham-ac-uk.zoom.us/j/85697917669?pwd=R09RRVoxSXl5YnVjVDVuN3NDM2lCdz09)
-* Friday 18:00 UTC session: [Friday Zoom link](https://bham-ac-uk.zoom.us/j/82522323304?pwd=VjRRWDNkZjF5clBDd3FNNGJWcTUyZz09).
-
 ## Recording
 
-[Friday
-session](https://bham-ac-uk.zoom.us/rec/share/p7loT0gDPOrYuPCzmJK75FwTjXcNaBLC1pXKcz3qmtLWWU75VyFYEVLfQ-_sfSwU.bvhPMPxvQN2fyR7h).
+We will add the recording after the session.
 
 ## Schedule and plan
 
-* [Worked example of general linear
-  model](https://textbook.nipraxis.org/mean_test_example.html)
-* [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
-* [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
-* [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
-* [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
-* [Dummy hypothesis
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
+* The project, deadlines, marking
+* Feedback
 
-## Reading and homework for next week
+### Pages, exercises
 
-Work on your diagnostics projects.
+* [Resampling with ndimage](https://textbook.nipraxis.org/resampling_with_ndimage)
+* [optimizing space](https://textbook.nipraxis.org/optimizing_space)
+* [What extra
+transform](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/what_extra_transform&subPath=what_extra_transform.ipynb)
+* [Dipy registration]((https://textbook.nipraxis.org/dipy_registration)
+* [Where should these brain areas
+  go?]((https://textbook.nipraxis.org/anterior_cingulate)
+
+### For your further instruction
+
+* [On zooms](https://textbook.nipraxis.org/diagonal_zooms)
+* [On rotations](https://textbook.nipraxis.org/rotation_2d_3d)
+* [The image header and affine](https://textbook.nipraxis.org/image_header_and_affine)
+* [Images and affines](https://textbook.nipraxis.org/images_and_affines)
 
 ## That's it.
 
-That's it for this session.
+That's it for this session, and for the course.  Thanks for joining.
