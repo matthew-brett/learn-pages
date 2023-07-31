@@ -1,15 +1,17 @@
-The first session is the Monday session. The second session is the Wednesday
+The first session is the Monday session. The second session is the Thursday
 session.
 
 These are the notes for the Monday session.
 
-We will update them before and after the session, to please keep checking back for updates.  Just refresh the page in your browser to get updates.
+We will update them before and after the session, to please keep checking back
+for updates.  Just refresh the page in your browser to get updates.
 
-The Zoom link for the Monday session is <https://us06web.zoom.us/j/82417762885?pwd=WFhic1ZUbGpSUk5TN1lhcFkzUHFsUT09>.
+The Zoom link for all sessions is
+<https://numfocus-org.zoom.us/j/89458437731?pwd=eTF0V252bHlKOXBucnBUWlVBSm9uUT09>.
 
 ## Recording
 
-[Recording of Monday Week 1](https://us06web.zoom.us/rec/share/eqtXdl5W4CldBX9QFEmwoTbHe4Qjx26d0uhcKQgbXcXESXkVyl-9YHkh5RpjSHkk.F9L7r43jzciYF9RI)
+We will post the Recording of Monday Week 1 after the session.
 
 ## Schedule and plan
 
@@ -24,11 +26,13 @@ The Zoom link for the Monday session is <https://us06web.zoom.us/j/82417762885?p
     - <https://learn.nipraxis.org>
     - <https://hub.nipraxis.org> and the Jupyter notebook.
     - <https://github.com/nipraxis>
+- About the project.
 - We will gradually move away from notebooks.
 - [Using Jupyter notebooks](https://textbook.nipraxis.org/using_jupyter.html)
   and [more on Jupyter
   notebooks](https://textbook.nipraxis.org/more_on_jupyter.html)
-- [Very fast introduction to Python](https://textbook.nipraxis.org/introducing_python.html)
+- For reference: [Very fast introduction to Python](https://textbook.nipraxis.org/introducing_python.html)
+- If we have time: [Pathlib](https://textbook.nipraxis.org/pathlib.html).
 
 See:
 
@@ -36,5 +40,7 @@ See:
 
 ## For homework
 
-Finish going through the [very fast introduction to
-Python](https://textbook.nipraxis.org/introducing_python.html).
+* Make sure you know everything in the [very fast introduction to
+  Python](https://textbook.nipraxis.org/introducing_python.html).
+* [Install Python and required libraries on your
+  computer](https://textbook.nipraxis.org/installation.html)
