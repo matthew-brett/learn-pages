@@ -11,7 +11,8 @@ The Zoom link for all sessions is
 
 ## Recording
 
-We will post the Recording of Monday Week 1 after the session.
+[Recording of Monday Week 1 session
+1](https://numfocus-org.zoom.us/rec/share/nxcgD4PGsc-RI3QdTAiR2GBU1xkMrB5CPmf-sPSC52FSqTkXW7T55CPH1gS7lSSZ.PINmaKGVNAmPXOi-)
 
 ## Schedule and plan
 
@@ -32,15 +33,21 @@ We will post the Recording of Monday Week 1 after the session.
   and [more on Jupyter
   notebooks](https://textbook.nipraxis.org/more_on_jupyter.html)
 - For reference: [Very fast introduction to Python](https://textbook.nipraxis.org/introducing_python.html)
-- If we have time: [Pathlib](https://textbook.nipraxis.org/pathlib.html).
 
-See:
+
+## For homework
+
+First watch:
 
 <iframe title="Surviving the computer" src="https://player.vimeo.com/video/693542789?h=63ccfc6dfa" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## For homework
+Next:
 
 * Make sure you know everything in the [very fast introduction to
   Python](https://textbook.nipraxis.org/introducing_python.html).
 * [Install Python and required libraries on your
-  computer](https://textbook.nipraxis.org/installation.html)
+  computer](https://textbook.nipraxis.org/installation.html).  Make sure you
+  have run the install check at the end of that page.
+
+Any problems, email <matthew.brett@gmail.com>, I will point you to someone else
+who can help if I can't help you.
