@@ -10,7 +10,7 @@ The Zoom link for all sessions is
 ## Recording
 
 [Week 1 session
-2 recording](https://numfocus-org.zoom.us/rec/share/9Zk3OXgETh7uEELdfkzOttXp7yYm2pFwvPhGEfvLIFR-eHkHy90Zgpi-XpGP0cQJ.sXh_0FQlkaYs7k_g?startTime=1691064163000)
+2 recording](https://numfocus-org.zoom.us/rec/share/KzZxz_u4kOloz-bjfa9xFwEkxmoR_NknZo9un-wjlpuLnGwLnAqApLgRkyx5-jVk.P-Zk3Vcl31LMqkhq)
 
 ## Schedule and plan
 
