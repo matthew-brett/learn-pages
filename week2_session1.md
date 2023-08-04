@@ -1,10 +1,11 @@
 ## Recording
 
-[Week 2 session 1 recording](https://us06web.zoom.us/rec/share/anH1B-3lqi4x0uoNqITUvm_rklXNqSed8ZVtfncaJAtw_49dPSZ6cR8OXinTrnrf.20TxauNv5pqx8Y0U)
+We will post this after the session
 
 ### Arrays, images and plotting
 
-* [Writing and reading files](https://textbook.nipraxis.org/pathlib)
+* [What is an image?](https://textbook.nipraxis.org/what_is_an_image.html)
+* [Boolean arrays](https://textbook.nipraxis.org/boolean_arrays.html)
 * [Reshape and 2D](https://textbook.nipraxis.org/reshape_and_2d)
 * [Arrays and images](https://textbook.nipraxis.org/arrays_and_images)
 * [Camera
@@ -15,27 +16,16 @@
 In the next session, we will be starting with Git, and to work on your own
 computer.
 
-First, [install what you need](https://textbook.nipraxis.org/installation),
-including the Git version control software.
+Read, mark, learn and inwardly digest the [curious
+git](https://matthew-brett.github.io/curious-git/) tutorial.
 
-Next, watch the following two videos introducing Git in use, but relating what
-you see to the terms in the tutorial above.
+We think this will take you 90 minutes, at a careful read, and you will need
+to read it carefully, in order to benefit from it.
 
-I'm referring to the "Git parable" in the videos, which is a similar
-introduction to the [Curious Git
-tutorial](https://matthew-brett.github.io/curious-git) from last week's
-homework — but the two tutorials take a very similar track, so you can consider
-them interchangeable.
-
-<iframe src="https://player.vimeo.com/video/121579300?h=ed8db39d7e" width="640" height="438" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/121579300">Introduction to the git working tree, repository and staging area</a> from <a href="https://vimeo.com/matthewbrett">Matthew Brett</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-The next video is a little out of date, in that the default branch name in Git
-has changed from "master" to "main".  You will likely find your copy of Git
-calls the default branch "main".  For "master" read "main" throughout.
-
-<iframe src="https://player.vimeo.com/video/121579601?h=5b937ff9ff" width="640" height="436" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/121579601">The links between git commits, and git branches.</a> from <a href="https://vimeo.com/matthewbrett">Matthew Brett</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+If you do read it carefully, you will be investing in your own future
+productivity — Git version control is a powerful way to work more efficiently,
+especially in collaboration, and you need to understand the way that Git
+**thinks**, in order to use Git with fluency and efficiency.
 
 ## That's it.
 

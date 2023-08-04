@@ -32,22 +32,72 @@ The Zoom link for all sessions is
 - [Using Jupyter notebooks](https://textbook.nipraxis.org/using_jupyter.html)
   and [more on Jupyter
   notebooks](https://textbook.nipraxis.org/more_on_jupyter.html)
-- For reference: [Very fast introduction to Python](https://textbook.nipraxis.org/introducing_python.html)
+- For reference: [Very fast introduction to
+  Python](https://textbook.nipraxis.org/introducing_python.html)
 
 
 ## For homework
 
-First watch:
+If you need to catch up on Python and Numpy, you have a double-dose of
+homework this week. In particular, you really will need to do the second
+section here, to get fluent in basic Python and Numpy.  If you are already fluent, you only need to do the first section.
+
+Any problems, email <matthew.brett@gmail.com>, I will point you to someone else
+who can help if I can't help you.
+
+### For everyone: surviving computer, installing on your own machine
+
+Make sure you have watched:
 
 <iframe title="Surviving the computer" src="https://player.vimeo.com/video/693542789?h=63ccfc6dfa" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 Next:
 
-* Make sure you know everything in the [very fast introduction to
-  Python](https://textbook.nipraxis.org/introducing_python.html).
+* Check your knowledge with the [fast introduction to
+  Python](https://textbook.nipraxis.org/brisk_python.html).
 * [Install Python and required libraries on your
   computer](https://textbook.nipraxis.org/installation.html).  Make sure you
   have run the install check at the end of that page.
 
-Any problems, email <matthew.brett@gmail.com>, I will point you to someone else
-who can help if I can't help you.
+That's all for those of you who are comfortable with Python and Numpy. See below for those of you who need to catch up.
+
+### If you need practice with Python or Numpy
+
+If you don't know Python well, we strongly suggest you do these exercises to
+catch up, otherwise the rest of the course will be too fast.  Make sure, too, that you've read the fast introduction to Python above.
+
+#### Python
+
+If you are new to Python, do the [expressions and statements
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/exprs_states&subPath=exprs_states.ipynb),
+to get into the swing of things.
+
+Next, do these exercises from the [Google Python
+class](https://developers.google.com/edu/python/).  There are links in the
+exercises to the sections to read to revise the ideas you need.
+
+- [string1
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_string1&subPath=string1.ipynb)
+- [list1
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list1&subPath=list1.ipynb)
+
+We also suggest you try the slightly more advanced exercises:
+
+- [string2
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_string2&subPath=string2.ipynb)
+- [list2
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list2&subPath=list2.ipynb)
+
+#### Numpy
+
+(Re-)Read the [introduction to
+Numpy](https://textbook.nipraxis.org/numpy_intro.html).
+
+For a fuller introduction to Numpy, please see [the Scientific Python Numpy tutorial](https://lectures.scientific-python.org/intro/numpy/index.html).
+
+Make sure you can do the [arrays
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
+
+## The end
+
+That's it for this session.
