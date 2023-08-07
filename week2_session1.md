@@ -13,6 +13,11 @@ We will post this after the session
 
 ## Homework
 
+Make sure you've done the exercises from the sessions:
+
+* Session 1:
+  [Camera](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
+
 In the next session, we will be starting with Git, and to work on your own
 computer.
 
