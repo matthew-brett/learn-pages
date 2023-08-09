@@ -41,6 +41,24 @@ On debugging.
 
 ## Homework
 
+
+Notice the homework, and in particular, the sections on Choosing a Text Editor,
+and Markdown.
+
+### A git walkthrough
+
+See: <https://github.com/nipraxis/first-validation>
+
+## For homework
+
+### For everyone - the Markdown tutorial
+
+Markdown is the standard way of writing nicely formatted text on many
+platforms, including on Github, and in the Jupyter notebook.  You will see it
+in many places, and you will find yourself using it often — for example, in
+Jupyter text cells.  Get used to writing Markdown by doing the [Markdown
+tutorial](https://www.markdowntutorial.com).
+
 * Make sure you've read and understood the
   [on_modules](https://textbook.nipraxis.org/on_modules) page, and particularly
   the last sections.

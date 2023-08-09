@@ -95,6 +95,15 @@ Numpy](https://textbook.nipraxis.org/numpy_intro.html).
 
 For a fuller introduction to Numpy, please see [the Scientific Python Numpy tutorial](https://lectures.scientific-python.org/intro/numpy/index.html).
 
+Specifically, see:
+
+* The [numpy array
+  object](https://lectures.scientific-python.org/intro/numpy/array_object.html);
+* [Array
+  operations](https://lectures.scientific-python.org/intro/numpy/operations.html).
+* If you know Matlab, you might want to look over this page on [Numpy for
+  Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
+
 Make sure you can do the [arrays
 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
 

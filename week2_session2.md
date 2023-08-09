@@ -1,9 +1,17 @@
 ## Recording
 
-[week2 session2
-recording](https://us06web.zoom.us/rec/share/4KWej9DKfuVMIMK80y88Uap8A-kr1XKXJxr4cNGEKBT2Ucrd1YUwj961cY59eiea.9vqQRPwpCtuBzvUW).
+We will post the recording after the session
 
-## The day
+## Schedule
+
+* [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
+* [Images in 3D](https://textbook.nipraxis.org/images_3d)
+* [Reshaping and three
+  dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
+* [Anatomical
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+* If you have time: [Arteries
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
 Notice the homework, and in particular, the sections on Choosing a Text Editor,
 and Markdown.
@@ -21,8 +29,6 @@ Read:
 * The [numpy array
   object](https://scipy-lectures.org/intro/numpy/array_object.html);
 * [Array operations](https://scipy-lectures.org/intro/numpy/operations.html).
-* If you know Matlab, you might want to look over this page on [Numpy for
-  Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
 We think this will take you about 40 minutes, reading carefully.
 
