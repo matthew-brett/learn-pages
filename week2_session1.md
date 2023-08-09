@@ -14,7 +14,24 @@
 
 ## Homework
 
-See the page for session 1.
+Make sure you've done the exercises from the sessions:
+
+* Session 1:
+  [Camera](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
+
+In the next session, we will be starting with Git, and to work on your own
+computer.
+
+Read, mark, learn and inwardly digest the [curious
+git](https://matthew-brett.github.io/curious-git/) tutorial.
+
+We think this will take you 90 minutes, at a careful read, and you will need
+to read it carefully, in order to benefit from it.
+
+If you do read it carefully, you will be investing in your own future
+productivity — Git version control is a powerful way to work more efficiently,
+especially in collaboration, and you need to understand the way that Git
+**thinks**, in order to use Git with fluency and efficiency.
 
 ## That's it.
 

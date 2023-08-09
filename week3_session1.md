@@ -3,10 +3,16 @@
 [Week 3 session
 1](https://us06web.zoom.us/rec/share/l9Zy5f9_WGyAs3DmVbkGsp_k6r4FhJBMMPV5H7pvJ3fmYAB5lRwsE2aVpGzgyZh_.ZPKjQLONfkxce3Mn)
 
-## Schedule and plan
+## Schedule
 
 * Towards the first project.
 * Bracketing Git, Github and working on your own computer.
+* Three dimensions
+
+### A Git walkthrough
+
+See: <https://github.com/nipraxis/first-validation>
+
 
 ### 3D arrays images
 
