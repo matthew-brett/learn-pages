@@ -17,7 +17,12 @@
 Make sure you've done the exercises from the sessions:
 
 * Session 1:
-  [Camera](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
+  * [Camera](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/camera&subPath=camera.ipynb)
+* Session 2:
+    * [Anatomical
+    exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+    * Consider also: [Arteries
+    exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
 In the next session, we will be starting with Git, and to work on your own
 computer.

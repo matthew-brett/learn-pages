@@ -1,6 +1,7 @@
 ## Recording
 
-We will post the recording after the session
+[Week 2 session
+2 recording](https://numfocus-org.zoom.us/rec/share/dG612zhE7qU4sE_Wo2oyOmFnkjxqY3sBcrF7kijixQ3zoVRST4__StpYv47bBQ.EsD2R2-D6ZCERmoj)
 
 ## Schedule
 
