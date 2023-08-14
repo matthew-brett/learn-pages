@@ -26,6 +26,31 @@ We start with the laptop way.
 
 * [on_modules](https://textbook.nipraxis.org/on_modules).
 
+### FMRI artifacts
+
+* [Principles of FMRI video](https://www.youtube.com/watch?v=7Kk_RsGycHs)
+* [Radiopedia article in MRI
+  artifacts](https://radiopaedia.org/articles/mri-artifacts-1)
+* [Common MRI artifacts and how to fix
+  them](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/images/3/39/Artifacts_why_n_how_dec_14_2017_V7.pdf)
+
+The above don't focus much on fMRI (some coverage of susceptibility
+distortion), but here are some MRI quality control runs that show some
+interesting effects:
+
+* [Spin history artifact, motion spike, AP
+  ghosting](https://mriqc.s3.amazonaws.com/artifacts/sub-ds045s409874_task-machinegame_run-04_bold.html)
+* [Ringing, bands in
+  carpetplot](https://mriqc.s3.amazonaws.com/abide/sub-50039_task-rest_bold.html)
+* [Ghosting, possible hardware
+  failure](https://mriqc.s3.amazonaws.com/abide/sub-51489_task-rest_bold.html)
+* [LR ghosting evident in background
+  noise](https://mriqc.s3.amazonaws.com/abide/sub-51146_task-rest_bold.html)
+* [Hardware
+  failures](https://mriqc.s3.amazonaws.com/artifacts/sub-arielle02_task-uknown_bold.html)
+* [Electromagnetic
+  spikes](https://mriqc.s3.amazonaws.com/artifacts/sub-ben01_task-unknown_bold.html)
+
 ## For homework
 
 ### Using Git
@@ -71,16 +96,6 @@ Here we a list of videos on choosing text editors:
   you have the right editor, how long it takes to get going with Vim.
 
 Please take time for this task, and investigate your options.
-
-### If you need practice
-
-* [Boolean indexing
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)
-
-### If you didn't finish it
-
-* [Arteries
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
 ## That's it.
 
