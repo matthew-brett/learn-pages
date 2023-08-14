@@ -1,29 +1,30 @@
 ## Recording
 
-[Week 3 session
-1](https://us06web.zoom.us/rec/share/l9Zy5f9_WGyAs3DmVbkGsp_k6r4FhJBMMPV5H7pvJ3fmYAB5lRwsE2aVpGzgyZh_.ZPKjQLONfkxce3Mn)
+We will post this with 24 hours after the session.
 
 ## Schedule
 
-* Towards the first project.
+* Again, towards the project.
 * Bracketing Git, Github and working on your own computer.
-* Three dimensions
+
+### Some background
+
+You will need to have followed the [installation
+instructions](https://textbook.nipraxis.org/installation.html).
+
+In particular, you are about to use your terminal application:
+
+* [Powershell on Windows]()
+* [Terminal.app on
+  Mac](https://textbook.nipraxis.org/installation_on_mac.html#terminal-app)
+* [Powshell on
+  Mac](https://textbook.nipraxis.org/installation_on_windows.html#powershell)
+
+* [Assert in Python](https://textbook.nipraxis.org/assert.html)
 
 ### A Git walkthrough
 
 See: <https://github.com/nipraxis/first-validation>
-
-
-### 3D arrays images
-
-* [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
-* [Images in 3D](https://textbook.nipraxis.org/images_3d)
-* [Reshaping and three
-  dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
-* [Anatomical
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
-* If you have time: [Arteries
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
 ## For homework
 
