@@ -29,7 +29,7 @@ We start with the laptop way.
 ```
 git clone https://github.com/nipraxis/first_module
 cd first_module
-ipython
+python3 -m IPython
 ```
 
 then (in IPython):
