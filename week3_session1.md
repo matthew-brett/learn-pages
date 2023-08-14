@@ -1,6 +1,7 @@
 ## Recording
 
-We will post this with 24 hours after the session.
+[Week 3 session 1
+recording](https://numfocus-org.zoom.us/rec/share/1DWWt27ub3hc7RX4rj4dy6yn8iFDPKHQxYr8rvInUvl_zwycUIwqvKWMTE0CSdXc.Xvs5ZTX5xE0D3TgK?startTime=1692022041000)
 
 ## Schedule
 
@@ -14,37 +15,16 @@ instructions](https://textbook.nipraxis.org/installation.html).
 
 In particular, you are about to use your terminal application:
 
-* [Powershell on Windows]()
-* [Terminal.app on
-  Mac](https://textbook.nipraxis.org/installation_on_mac.html#terminal-app)
+* [Powershell on
+  Windows](https://textbook.nipraxis.org/installation_on_windows.html#powershell)
 * [Powshell on
-  Mac](https://textbook.nipraxis.org/installation_on_windows.html#powershell)
+  Mac](https://textbook.nipraxis.org/installation_on_mac.html#terminal-app)
 
 ### Modules and functions
 
 We start with the laptop way.
 
 * [on_modules](https://textbook.nipraxis.org/on_modules).
-
-```
-git clone https://github.com/nipraxis/first_module
-cd first_module
-python3 -m IPython
-```
-
-then (in IPython):
-
-```
-run spm_funcs.py
-```
-
-On debugging.
-
-* [Assert in Python](https://textbook.nipraxis.org/assert.html)
-
-### A Git walkthrough
-
-See: <https://github.com/nipraxis/first-validation>
 
 ## For homework
 
