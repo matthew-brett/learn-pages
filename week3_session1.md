@@ -20,6 +20,26 @@ In particular, you are about to use your terminal application:
 * [Powshell on
   Mac](https://textbook.nipraxis.org/installation_on_windows.html#powershell)
 
+### Modules and functions
+
+We start with the laptop way.
+
+* [on_modules](https://textbook.nipraxis.org/on_modules).
+
+```
+git clone https://github.com/nipraxis/first_module
+cd first_module
+ipython
+```
+
+then (in IPython):
+
+```
+run spm_funcs.py
+```
+
+On debugging.
+
 * [Assert in Python](https://textbook.nipraxis.org/assert.html)
 
 ### A Git walkthrough
