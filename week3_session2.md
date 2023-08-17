@@ -12,6 +12,7 @@ We will post this after the session.
 More on the laptop way.
 
 * [on_modules](https://textbook.nipraxis.org/on_modules).
+* [Assert in Python](https://textbook.nipraxis.org/assert.html)
 
 ```
 git clone https://github.com/nipraxis/first_module
@@ -26,8 +27,6 @@ run spm_funcs.py
 ```
 
 On debugging.
-
-* [Assert in Python](https://textbook.nipraxis.org/assert.html)
 
 ### Indexing and four dimensions
 
