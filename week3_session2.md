@@ -12,21 +12,8 @@ We will post this after the session.
 More on the laptop way.
 
 * [on_modules](https://textbook.nipraxis.org/on_modules).
-* [Assert in Python](https://textbook.nipraxis.org/assert.html)
 
-```
-git clone https://github.com/nipraxis/first_module
-cd first_module
-python3 -m IPython
-```
-
-then (in IPython):
-
-```
-run spm_funcs.py
-```
-
-On debugging.
+We will come to the practice later (week 4).
 
 ### Indexing and four dimensions
 

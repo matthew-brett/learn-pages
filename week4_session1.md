@@ -8,6 +8,24 @@ We will paste the recording after the session.
 * Modules and functions
 * More background
 
+### More on modules, with some practice
+
+* [Assert in Python](https://textbook.nipraxis.org/assert.html)
+
+```
+git clone https://github.com/nipraxis/first_module
+cd first_module
+python3 -m IPython
+```
+
+then (in IPython):
+
+```
+run spm_funcs.py
+```
+
+On debugging.
+
 ### A Git walkthrough
 
 See: <https://github.com/nipraxis/first-validation>
