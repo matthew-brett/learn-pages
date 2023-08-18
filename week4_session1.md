@@ -4,9 +4,18 @@ We will paste the recording after the session.
 
 ## Schedule and plan
 
-* Introduction to final project.
+* More on four dimensions
 * Modules and functions
-* More background
+
+### Indexing and four dimensions
+
+* [Indexing with
+  Booleans](https://textbook.nipraxis.org/boolean_indexing.html)
+* [Boolean indexing in more
+  dimensions](https://textbook.nipraxis.org/boolean_indexing_nd.html)
+* [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
+* [Four dimensions
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
 
 ### More on modules, with some practice
 
