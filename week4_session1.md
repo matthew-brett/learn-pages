@@ -35,25 +35,7 @@ run spm_funcs.py
 
 On debugging.
 
-### A Git walkthrough
-
-See: <https://github.com/nipraxis/first-validation>
-
-### Some more background
-
-* [Reshape and 4D](https://textbook.nipraxis.org/reshape_and_4d)
-* [Voxels and time](https://textbook.nipraxis.org/voxels_by_time)
-* [Reading text files](https://textbook.nipraxis.org/reading_text)
-* [Voxel time course
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
-
 ## Homework
-
-### A git walkthrough
-
-See: <https://github.com/nipraxis/first-validation>
-
-## Reading and homework for next week
 
 There is a well-done video on Git and Github on YouTube, link below.
 

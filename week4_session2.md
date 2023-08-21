@@ -7,6 +7,19 @@
 
 * Github workflow and the final project.
 
+### A Git walkthrough
+
+See: <https://github.com/nipraxis/first-validation>
+
+### Some more background
+
+* [Reshape and 4D](https://textbook.nipraxis.org/reshape_and_4d)
+* [Voxels and time](https://textbook.nipraxis.org/voxels_by_time)
+* [Reading text files](https://textbook.nipraxis.org/reading_text)
+* [Voxel time course
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
+
+
 ### On the benefits of searching for the right solution
 
 We discussed the phenomenon that scientific programmers often stall at
