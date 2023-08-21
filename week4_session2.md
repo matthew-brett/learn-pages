@@ -1,11 +1,28 @@
 ## Recording
 
-[Week 4 session
-2](https://us06web.zoom.us/rec/share/zSUlLCP2mW2D18zyCV3e-h0a3SN_agKBOa5FWHjBtX0QCIyZx1zEWwktpNOqwOeS.X4YoDtxaktmAkcsd)
+We will post the recording after the session.
 
 ## Schedule and plan
 
 * Github workflow and the final project.
+
+### More on modules, with some practice
+
+* [Assert in Python](https://textbook.nipraxis.org/assert.html)
+
+```
+git clone https://github.com/nipraxis/first_module
+cd first_module
+python3 -m IPython
+```
+
+then (in IPython):
+
+```
+run spm_funcs.py
+```
+
+On debugging.
 
 ### A Git walkthrough
 

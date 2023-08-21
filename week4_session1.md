@@ -1,6 +1,6 @@
 ## Recording
 
-We will paste the recording after the session.
+[Week 4 session 1 recording](https://numfocus-org.zoom.us/rec/share/9K9OpxVP_9bu4AWA5JUpz1QspJB4QSjlAdQnEdlssIP5SZzf4lPj5txao_073QGs.nM-1yQNsqJDcC-aB)
 
 ## Schedule and plan
 
@@ -16,24 +16,6 @@ We will paste the recording after the session.
 * [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
 * [Four dimensions
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
-
-### More on modules, with some practice
-
-* [Assert in Python](https://textbook.nipraxis.org/assert.html)
-
-```
-git clone https://github.com/nipraxis/first_module
-cd first_module
-python3 -m IPython
-```
-
-then (in IPython):
-
-```
-run spm_funcs.py
-```
-
-On debugging.
 
 ## Homework
 
