@@ -36,7 +36,6 @@ See: <https://github.com/nipraxis/first-validation>
 * [Voxel time course
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
 
-
 ### On the benefits of searching for the right solution
 
 We discussed the phenomenon that scientific programmers often stall at
@@ -59,7 +58,6 @@ right way to solve each problem.
 Diagram of the workflow:
 
 ![](https://nipraxis.org/fall-2022/assets/images/github_workflow.svg)
-
 
 Team leader:
 

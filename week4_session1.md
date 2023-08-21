@@ -92,12 +92,6 @@ in many places, and you will find yourself using it often — for example, in
 Jupyter text cells.  Get used to writing Markdown by doing the [Markdown
 tutorial](https://www.markdowntutorial.com).
 
-* Make sure you've read and understood the
-  [on_modules](https://textbook.nipraxis.org/on_modules) page, and particularly
-  the last sections.
-* Then do the [voxel time course
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
-
 ## That's it.
 
 That's it for this session.
