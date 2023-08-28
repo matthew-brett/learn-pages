@@ -77,16 +77,25 @@ Everyone (including the team leader):
     Git) or `git commit -m 'Edit to README'` (if you do not).
 21. Push up your changes to your *fork* with `git push origin editing-readme
     --set-upstream`.
-22. Go to your fork URL (of form
-    `https://github.com/<your-gh-user>/diagnostics-<teamname>`)
-23. You should see a new green "Compare and pull request" button for your
-    `editing-readme` branch. Click on that, fill in the description and submit the pull request.
+22. Next make a pull request from this branch on Github.  Either use the URL
+    that Github displays in your terminal from the command above, of form
+    `https://github.com/<your-gh-user>/diagnostics-<teamname}/pull/new/editing-readme`,
+    OR go to your fork URL (of
+    `https://github.com/<your-gh-user>/diagnostics-<teamname>`, and use the new
+    green "Compare and pull request" button for your `editing-readme` branch.
+    Click on that
+23. Fill in the pull request description and submit the pull request.
 
 The team leader should:
 
 1. Go to the main repository page — of form
    `https://github.com/nipraxis-summer-2023/diagnostics-<teamname>`.
-2. Select one or more of the Pull requests to merge, and merge it / them.
+2. Click on one or more of the Pull Request pages available there, and click on
+   the green Merge button to merge it / them.  (In fact, there are several
+   options available via that green button, we are taking the default route by
+   clicking on the green button.  See [the Github merge
+   page](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request#merging-a-pull-request)
+   for more details.
 
 ### Techniques
 
@@ -114,7 +123,7 @@ Assume `this_vol` is one 3D array representing a volume, and `prev_vol` is
 another 3D array representing a volume.  The DVARS difference between these two
 volumes is:
 
-```{python}
+```python
 vol_diff = this_vol - prev_vol
 dvar_val = np.sqrt(np.mean(vol_diff ** 2))
 ```
