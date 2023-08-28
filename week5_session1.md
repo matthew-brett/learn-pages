@@ -8,7 +8,7 @@ We will post the recording after the session.
 
 Diagram of the workflow:
 
-![](https://nipraxis.org/fall-2022/assets/images/github_workflow.svg)
+![](https://nipraxis.org/summer-2023/assets/images/github_workflow.svg)
 
 Team leader:
 
@@ -22,11 +22,12 @@ Team leader:
 4. In the issue, ask for a new diagnostics repository for your team.  Specify
    a *name* for your team.
 5. Wait for our response, on that issue.
-6. You will get an email inviting you to a new repository named
-   `nipraxis-fall-2022/diagnostics-<teamname>` where `<teamname>` is the
-   name you specified in your issue.
+6. You will see URL to your new repository named
+   `nipraxis-summer-2023/diagnostics-<teamname>` where `<teamname>` is the name
+   you specified in your issue.  You may also get an email telling you about
+   the repository.
 7. Go to the link for your repository.  It will be of form
-   `https://github.com/nipraxis-fall-2022/diagnostics-<teamname>`.
+   `https://github.com/nipraxis-summer-2023/diagnostics-<teamname>`.
 8. Make sure you know the Github usernames of your team members.
 9. Go to the Settings tab.
 10. Click on "Collaborators and Teams" on the left.
@@ -38,7 +39,8 @@ Everyone (including the team leader):
 
 1. You should get an invitation to your team repository.
 2. Click on the link, that should be of form
-   `https://github.com/nipraxis-fall-2022/diagnostics-<teamname>`, where `<teamname>` is your agreed team name.
+   `https://github.com/nipraxis-summer-2023/diagnostics-<teamname>`, where
+   `<teamname>` is your agreed team name.
 3. Click on the "Fork" button near the top right of the screen.
 4. Accept the defaults, click "Create Fork".
 5. Now you should be at a new page, with URL of form:
@@ -59,7 +61,7 @@ Everyone (including the team leader):
 10. Change directory to the new cloned repository, with command of form `cd
     diagnostics-<teamname>`.
 11. Add a new *remote* that points to the main "upstream" version of your team
-    code, using a command of form: `git remote add upstream https://github.com/nipraxis-fall-2022/diagnostics-<teamname>`.
+    code, using a command of form: `git remote add upstream https://github.com/nipraxis-summer-2023/diagnostics-<teamname>`.
 12. Check your remote worked with the command `git fetch upstream`.
 13. Make a new feature branch `editing-readme`, with the command `git branch
     editing-readme`.
@@ -83,7 +85,7 @@ Everyone (including the team leader):
 The team leader should:
 
 1. Go to the main repository page — of form
-   `https://github.com/nipraxis-fall-2022/diagnostics-<teamname>`.
+   `https://github.com/nipraxis-summer-2023/diagnostics-<teamname>`.
 2. Select one or more of the Pull requests to merge, and merge it / them.
 
 ### Techniques
