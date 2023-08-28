@@ -1,13 +1,8 @@
 ## Recording
 
-[Week 5 session 1
-recording](https://us06web.zoom.us/rec/share/cDg8wK6-kwW6X6qvk1rMvKHy5bjlBegV9oqlgpZO9iXqcUKAi8U4KM2FQNK0i6n0.keJS-JQuaVo5oPUs)
+We will post the recording after the session.
 
 ## Schedule and plan
-
-### A Git walkthrough
-
-See: <https://github.com/nipraxis/first-validation>
 
 ### Github walkthrough
 
