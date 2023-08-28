@@ -1,6 +1,7 @@
 ## Recording
 
-We will post the recording after the session.
+[Week5 session
+1 recording](https://numfocus-org.zoom.us/rec/share/oevqvp1VMEJ_DJCTZZMYxSoa-6s5LAkhJJ1d_OYzfNgB5mew2FnG0We_510WPtKH.gEgEwVbLXUehYVXd)
 
 ## Schedule and plan
 
