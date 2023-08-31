@@ -124,13 +124,16 @@ Your task:
 * `git branch fix-detectors upstream/main`
 * `git checkout fix-detectors`
 
-For instructions, look in the files:
+For instructions, first, look in the **Get the data** section of the
+`README.md` file, and follow the instructions there.
+
+Then look at the files:
 
 * `scripts/validate_data.py`
 * `findoutlie/detectors.py`
 
-And then work on the code to run the given commands and fix the errors, until
-you get `Tests passed` from both given commands (see instructions in the PR).
+Next work on the code to run the given commands and fix the errors, until you
+get `Tests passed` from both given commands (see instructions in the PR).
 
 Now push, and make a pull request.   Work together to find the best solution, review the pull request, and merge it.
 
