@@ -128,7 +128,14 @@ exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//git
 
 ### Detectors pull-request
 
-We will soon post a pull-request with further instructions.
+You should now have a pull-request called: "MRG: Add detectors function and
+tests".  Merge this.
+
+For instructions, see `findoutlie/tests/test_detectors.py`
+
+You should also have a pull-request called: "Add SPM globals functions".  Merge
+this as well.  It just adds the SPM globals function from your earlier
+exercise, in case you want to use it.
 
 ### Your project analysis draft
 
