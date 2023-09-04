@@ -204,6 +204,12 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
 
 ## Homework
 
+### Detectors pull-request
+
+We will soon post a pull-request with further instructions.
+
+### Your project analysis draft
+
 * Agree a provisional project analysis plan with your group.  Don't worry
   about the detail, it's just a draft to get the discussion going, or even
   just to clarify your ideas about what the task is.
