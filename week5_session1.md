@@ -121,8 +121,8 @@ Your task:
 * Merge the pull request.
 * Go to your local clone of your fork.
 * `git fetch upstream`
-* `git branch fix-detectors upstream/main`
-* `git checkout fix-detectors`
+* `git branch fix-validation upstream/main`
+* `git checkout fix-validation`
 
 For instructions, first, look in the **Get the data** section of the
 `README.md` file, and follow the instructions there.
@@ -130,10 +130,9 @@ For instructions, first, look in the **Get the data** section of the
 Then look at the files:
 
 * `scripts/validate_data.py`
-* `findoutlie/detectors.py`
 
-Next work on the code to run the given commands and fix the errors, until you
-get `Tests passed` from both given commands (see instructions in the PR).
+Next work on the code to run the given commands and fix the errors.  See
+the instructions in the PR.
 
 Now push, and make a pull request.   Work together to find the best solution, review the pull request, and merge it.
 
