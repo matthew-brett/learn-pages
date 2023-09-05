@@ -100,25 +100,6 @@ dvar_val = np.sqrt(np.mean(vol_diff ** 2))
 * [Voxel correlation
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
 
-### Voxel statistics
-
-* [Voxel time courses](https://textbook.nipraxis.org/voxel_time_courses).
-* [Voxel correlation
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
-
-### Voxel statistics and the HRF
-
-* [on convolution](https://textbook.nipraxis.org/on_convolution)
-* [The hemodynamic response
-  function](https://textbook.nipraxis.org/convolution_background)
-* [HRF
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/make_hrf&subPath=make_hrf.ipynb)
-* [The hemodynamic response
-  function](https://textbook.nipraxis.org/convolution_background)
-* [HRF
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/make_hrf&subPath=make_hrf.ipynb)
-* [On regression](https://textbook.nipraxis.org/on_regression)
-
 ## Homework
 
 ### Voxel correlation
