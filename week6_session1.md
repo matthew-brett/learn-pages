@@ -128,7 +128,7 @@ exercise, in case you want to use it.
 *   When you think it is ready to merge, @ mention the instructors by
     adding a comment to the pull-request on the lines of:
 
-    > @nipraxis-summer-2023/instructors - this plan is now ready for review.
+    `@nipraxis-summer-2023/instructors - this plan is now ready for review.`
 
     We will review your analysis plan, discuss and then Approve it using the
     Github interface.
