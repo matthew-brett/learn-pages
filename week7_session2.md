@@ -1,13 +1,29 @@
 ## Recording
 
-[Week 7 session 2 recording](https://us06web.zoom.us/rec/share/i5Ol4jPQqfKMXKLfYU4QXPAZaeV3ZH6Qip7lF3RBUqAOP-5uUTzFj6CVc-bTacM.NtJQhR__teZcoQhY)
+We will put up the recording after the session.
 
 ## Schedule and plan
 
-Office hours session.
+### Statistics continued
 
-### Statistics wrap-up
+* [Regress one voxel](https://textbook.nipraxis.org/regress_one_voxel.html)
+* [Regression notation](https://textbook.nipraxis.org/regression_notation)
+* [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
+* [On estimation
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
+* [The General Linear Model](https://textbook.nipraxis.org/glm_intro) (on
+  dummy coding and following).
+* [On dummies
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
+* [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
+* [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
+* [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
+* [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
+* [Dummy hypothesis
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
 
+Also see: a [worked example of general linear
+  model](https://textbook.nipraxis.org/mean_test_example.html)
 * [Whole image
   statistics](https://textbook.nipraxis.org/whole_image_statistics.html)
 
