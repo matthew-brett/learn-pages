@@ -25,10 +25,10 @@ python3 -m pytest .
 
 Work on the project!
 
-Make sure you have done the  [on estimation
+Make sure you have done the [basic regression
+exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/regression_estimation&subPath=regression_estimation.ipynb)
+and the [on estimation
 exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
-and the [dummy hypothesis
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb) from these sessions.
 
 ## That's it.
 
