@@ -4,8 +4,7 @@ We will put up the recording after the session.
 
 ## Schedule and plan
 
-* [The General Linear Model](https://textbook.nipraxis.org/glm_intro) (on
-  dummy coding and following).
+* [The General Linear Model - part 2](https://textbook.nipraxis.org/glm_intro#solving-the-model-with-matrix-algebra)
 * [On dummies
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
 * [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
