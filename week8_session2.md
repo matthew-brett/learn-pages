@@ -1,12 +1,20 @@
 ## Recording
 
-[Week 8 session
-2 recording](https://us06web.zoom.us/rec/share/yvPqkA9vrk0QOQDGAQLL1EtCuJkF5M8gz4jkwXXlxDWTo2iD9obB5lFlJMsy4Y5n.zuvHunD8rxwtmvSk)
+We will put up the recording after the session.
 
 ## Schedule and plan
 
 * The project, deadlines, marking
 * Feedback
+
+### More background
+
+* [Introducing Nipype](https://textbook.nipraxis.org/introducing_nipype)
+* [Nipype settings](https://github.com/nipraxis/textbook/blob/main/nipype_settings.py)
+* [Nipype batch for ds114](https://github.com/nipraxis/textbook/blob/main/nipype_ds114_sub009_t2r1.py)
+* [optimizing space](https://textbook.nipraxis.org/optimizing_space)
+* [Moving image
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/moving_images&subPath=moving_images.ipynb)
 
 ### Pages, exercises
 
