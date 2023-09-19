@@ -9,6 +9,16 @@ We will put up the recording after the session.
 
 ### More background
 
+* [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
+* [Dummy hypothesis
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
+
+Also see: a [worked example of general linear
+  model](https://textbook.nipraxis.org/mean_test_example.html)
+
+* [Whole image
+  statistics](https://textbook.nipraxis.org/whole_image_statistics.html)
+
 * [Introducing Nipype](https://textbook.nipraxis.org/introducing_nipype)
 * [Nipype settings](https://github.com/nipraxis/textbook/blob/main/nipype_settings.py)
 * [Nipype batch for ds114](https://github.com/nipraxis/textbook/blob/main/nipype_ds114_sub009_t2r1.py)

@@ -1,6 +1,7 @@
 ## Recording
 
-We will put up the recording after the session.
+[Week 8 session
+2 recording](https://numfocus-org.zoom.us/rec/share/USUHoqGel7nJuCrgznJCKGwRHUjXRQJ7Al75seiiU9JRUiHPG76s9FWhafLOnk8j.UkFFAduW_nQNlPjQ?startTime=1695045951000)
 
 ## Schedule and plan
 
@@ -10,14 +11,6 @@ We will put up the recording after the session.
 * [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
 * [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
 * [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
-* [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
-* [Dummy hypothesis
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
-
-Also see: a [worked example of general linear
-  model](https://textbook.nipraxis.org/mean_test_example.html)
-* [Whole image
-  statistics](https://textbook.nipraxis.org/whole_image_statistics.html)
 
 See also (for reference):
 
