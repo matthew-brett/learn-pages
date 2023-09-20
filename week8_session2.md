@@ -18,10 +18,6 @@ Also see: a [worked example of general linear
 
 * [Whole image
   statistics](https://textbook.nipraxis.org/whole_image_statistics.html)
-
-* [Introducing Nipype](https://textbook.nipraxis.org/introducing_nipype)
-* [Nipype settings](https://github.com/nipraxis/textbook/blob/main/nipype_settings.py)
-* [Nipype batch for ds114](https://github.com/nipraxis/textbook/blob/main/nipype_ds114_sub009_t2r1.py)
 * [optimizing space](https://textbook.nipraxis.org/optimizing_space)
 * [Moving image
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/moving_images&subPath=moving_images.ipynb)
